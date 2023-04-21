@@ -1,5 +1,5 @@
-"","dates","titles","clean_text"
-"1",2023-02-07,"Over 8 million families in the UK will continue to receive direct financial support from Government, with the first of five Cost of Living Payments – worth £301 – hitting bank accounts this spring.","
+,dates,titles,clean_text
+1,07/02/2023,"Over 8 million families in the UK will continue to receive direct financial support from Government, with the first of five Cost of Living Payments – worth £301 – hitting bank accounts this spring.","
     
           Over 8 million families in the UK on means-tested benefits will automatically receive £301 this Spring, and over 6.5 million people on disability benefits in the country will receive a £150 payment this summer
   £301 payment is the first of five direct cost of living payments for the most vulnerable households, including pensioners and disabled people, with the total amount of support reaching up to £1,350
@@ -47,7 +47,7 @@ A £650 Cost of Living Payment for means-tested benefit claimants, split into two
   Further £300 and £150 payments, which reached over eight million pensioner households and six million disabled people respectively
   A £150 Council Tax rebate for all households in Council Tax bands A to D in England
   A £400 energy bill discount for all households, which will continue to run through March 2023"
-"2",2023-01-03,"Millions of the lowest-income households across the UK will get up to £1,350 from the Government in 2023/4 to help with the cost of living.","
+2,03/01/2023,"Millions of the lowest-income households across the UK will get up to £1,350 from the Government in 2023/4 to help with the cost of living.","
     
           Millions will receive new cost of living support from Spring 2023, following up to £1,200 in support for over eight million low-income households in 2022
   £900 Cost of Living Payment for means-tested benefit claimants will go direct to bank accounts in three payments over the financial year
@@ -99,7 +99,7 @@ A £650 Cost of Living payment for means-tested benefit claimants, split into two
   Further £300 and £150 payments, which reached over eight million pensioners and over six million disabled people respectively
   A £150 Council Tax rebate for all households in Council Tax bands A-D
   A £400 energy bill discount for all households, which will continue to run through March"
-"3",2023-01-11,"Financial package to help students with living costs and a further freeze on tuition fees.","
+3,11/01/2023,Financial package to help students with living costs and a further freeze on tuition fees.,"
     
           
 Multimillion pound package to help students cover living and other costs.
@@ -145,7 +145,7 @@ The government regularly monitors the interest rates set on student loans agains
 
 From the 2023/24 academic year, the government will cut interest rates for new students to RPI only so that, under these terms, graduates will not repay more than they originally borrowed, when adjusted for inflation.
 "
-"4",2023-03-07,"£76 million tied up in forgotten accounts to be used to support people to get out of debt and assist social enterprises with innovative energy saving solutions.","
+4,07/03/2023,£76 million tied up in forgotten accounts to be used to support people to get out of debt and assist social enterprises with innovative energy saving solutions.,"
     
           
 Dormant Assets Scheme redirects money from forgotten accounts to good causes
@@ -261,7 +261,7 @@ Economic Secretary to the Treasury Andrew Griffith said:
 
 
 "
-"5",2022-09-20,"From today (20 September) around six million disabled people in the UK will start to receive their one-off £150 Disability Cost of Living payment","
+5,20/09/2022,From today (20 September) around six million disabled people in the UK will start to receive their one-off £150 Disability Cost of Living payment,"
     
           
     Six million people who are paid certain disability benefits will begin to receive a one-off payment of £150 from today
@@ -295,7 +295,7 @@ UK Chancellor of the Exchequer Kwasi Kwarteng said:
   The government is standing behind people this winter, and in the longer term we are focusing on driving economic growth – the only way to permanently boost everyone’s living standards.
 
 "
-"6",2022-12-08,"The average Pension Credit award is worth over £3,500 a year and those who claim by 18 December could also be entitled to an extra £324 cost of living payment.","
+6,08/12/2022,"The average Pension Credit award is worth over £3,500 a year and those who claim by 18 December could also be entitled to an extra £324 cost of living payment.","
     
           Minister for Pensions Laura Trott urges pensioners to check if they qualify for Pension Credit
   Claims can be made online and over the phone, with the Pension Credit calculator on hand to help pensioners see if they’re likely to be eligible and get an estimate of what they may receive.
@@ -332,7 +332,7 @@ Arthur said:
 
 Pension Credit can be claimed by phone and online, ensuring that older people can apply safely and easily, wherever they are. The online Pension Credit calculator is also on hand to help pensioners check if they’re likely to be eligible and get an estimate of what they may receive.
 "
-"7",2022-08-23,"Around 6 million disabled people in the UK will receive their one-off £150 disability Cost of Living payment from 20 September, the government has confirmed today.","
+7,23/08/2022,"Around 6 million disabled people in the UK will receive their one-off £150 disability Cost of Living payment from 20 September, the government has confirmed today.","
     
           £150 disability Cost of Living payments to be made from 20 September 2022
   6 million people who are paid certain disability benefits will benefit
@@ -379,7 +379,7 @@ UK Chancellor of the Exchequer Nadhim Zahawi said:
   This payment is in addition to further help households can expect over the coming months – including a second cost of living payment of £324 for households on means-tested benefits, £300 for pensioners this winter and £400 discount on energy bills for every household. This is all part of our significant £37 billion support package.
 
 "
-"8",2022-12-20,"11.6 million Winter Fuel Payments and Pensioner Cost of Living Payments have been made to pensioners across the UK so far this winter.","
+8,20/12/2022,11.6 million Winter Fuel Payments and Pensioner Cost of Living Payments have been made to pensioners across the UK so far this winter.,"
     
           11.6 million Winter Fuel Payments and Pensioner Cost of Living Payments have been made to pensioners across the UK so far this winter.
   This means over 99 percent of eligible pensioners have already received up to £600 to help with their energy bills since the rollout began in November.
@@ -418,7 +418,7 @@ These are an automatic bank top-up of £25, paid to eligible households when the 
 
 Further cost of living support to be paid next year was recently announced by the Chancellor. Payments will include a further £300 for pensioner households, up to £900 for households on means-tested benefits and £150 for those on eligible disability benefits.
 "
-"9",2023-03-15,"A revolution in childcare, a £27 billion tax cut for business and a trio of freezes to help families with the cost-of-living headlined the Chancellor’s Spring Budget today, Wednesday 15 March.","
+9,15/03/2023,"A revolution in childcare, a £27 billion tax cut for business and a trio of freezes to help families with the cost-of-living headlined the Chancellor’s Spring Budget today, Wednesday 15 March.","
     
           
 Childcare revolution to expand 30 hours free childcare for children over the age of nine months, alongside boosts to subsidised childcare for parents on Universal Credit including upfront support.
@@ -498,7 +498,7 @@ Greater responsibility for local leaders to grow their local economy.
   £8.8 billion over the next five-year funding period for a second round of the City Region Sustainable Transport Settlements.
 Many of today’s decisions on tax and spending apply in Scotland, Wales and Northern Ireland. As a result of decisions that do not apply UK-wide, the Scottish Government will receive around an additional £320 million over 2023-24 and 2024-25, the Welsh Government will receive £180 million, and the Northern Ireland Executive will receive £130 million.
 "
-"10",2023-03-15,"Millions of households will get more support with high energy bills to help ease the cost of living, the Chancellor has announced today ahead of the Spring Budget. ","
+10,15/03/2023,"Millions of households will get more support with high energy bills to help ease the cost of living, the Chancellor has announced today ahead of the Spring Budget. ","
     
           
 
@@ -552,7 +552,7 @@ The change announced today also follows the latest Ofgem Price cap of £3,280 fro
 
 Holding down energy bills is also part of the government’s plan to halve inflation this year, and in November the Office for Budget Responsibility said that the EPG would lower the peak rate of inflation.
 "
-"11",2022-10-03,"Over 8 million households are set to receive an additional £324 as part of the government’s Cost of Living support package.","
+11,03/10/2022,Over 8 million households are set to receive an additional £324 as part of the government’s Cost of Living support package.,"
     
           The £324 Cost of Living Payment, which follows on from a £326 payment made from July, is part of £1,200 support package for millions this year
   The £150 Disability Cost of Living Payment was provided in September, with a £300 additional pensioner payment to come in the Winter
@@ -588,7 +588,7 @@ This payment comes on top of extensive government support with the cost of livin
 
 As well as this, a £150 Council Tax rebate was sent earlier this year to those in Council Tax bands  A to D in England, creating a total of at least £1,200 in direct support for millions. A £400 reduction on energy bills is also being given to all domestic electricity customers over the coming months, and a new ‘Energy Price Guarantee’, which means from 1 October the average UK household will save at least £1,000 a year based on current energy prices.
 "
-"12",2022-09-30,"As of today (30 September) the Department for Work and Pensions has processed almost six million £150 Disability Cost of Living payments worth around £900 million.","
+12,30/09/2022,As of today (30 September) the Department for Work and Pensions has processed almost six million £150 Disability Cost of Living payments worth around £900 million.,"
     
           This follows the government’s announcement on 20 September that those who had confirmed payment of their disability benefit for 25 May will receive the £150 automatically, with the vast majority to be paid by early October.
 
@@ -602,7 +602,7 @@ The £150 cost of living payments for disabled people from the government are par
 
 This also follows the Prime Minister’s announcement of a new Energy Price Guarantee for the next two winters, saving households on average £1,000 a year on their energy bills.
 "
-"13",2022-06-22,"Over 8 million households in the UK will get a cash payment from July 2022 to ease cost of living pressures.","
+13,22/06/2022,Over 8 million households in the UK will get a cash payment from July 2022 to ease cost of living pressures.,"
     
           Over 8 million households will receive the first of two cost of living instalments totalling £650 from 14 July 2022, part of the £1,200 support package this year
   Initial automatic instalment for means-tested benefit claimants will be £326, with the rest to follow in a second instalment from the autumn
@@ -636,7 +636,7 @@ This is on top of £400 for all households to help with energy bills, and an extr
 
 The government has also expanded support for the Household Support Fund – which helps people with food and energy bills – with an extra £421 million, on top of £79 million for devolved nations; the total value of this support now stands at £1.5 billion. Fuel duty was also cut by 5p per litre for 12 months in March, and alcohol duty has been frozen for 2022/23.
 "
-"14",2022-06-15,"More than eight million households across the whole of the UK will get a cash payment from July to ease cost of living pressures, as the Work and Pensions Secretary Thérèse Coffey sets out detailed plans today.","
+14,15/06/2022,"More than eight million households across the whole of the UK will get a cash payment from July to ease cost of living pressures, as the Work and Pensions Secretary Thérèse Coffey sets out detailed plans today.","
     
           Millions will receive the first of two cost of living instalments totalling £650 from 14 July 2022, part of the £1,200 support package this year
   Initial automatic instalment will be £326, with the rest to follow in a second instalment in the autumn
@@ -677,7 +677,7 @@ This is on top of £400 for all households to help with energy bills, and an extr
 
 The government has also expanded support for the Household Support Fund – which helps people with food and energy bills – with an extra £421 million, on top of £79 million for devolved nations; the total value of this support now stands at £1.5 billion. Fuel duty was also cut by 5p per litre for 12 months in March 2022, and alcohol duty has been frozen for 2022/23.
 "
-"15",2022-03-31,"Pensioners and families are set to benefit from the £500m extension to the Household Support Fund, as the government takes further steps to help with the rising cost of living.","
+15,31/03/2022,"Pensioners and families are set to benefit from the £500m extension to the Household Support Fund, as the government takes further steps to help with the rising cost of living.","
     
           Household Support Fund doubled to £1 billion with £500 million of new funding, as government goes further to support families with cost of living
   Six-month extension will help most vulnerable households deal with rising cost of essentials
@@ -704,7 +704,7 @@ This fund is part of £22 billion of support provided in 2022-23 to help families
 
 If you want to find out what help is available in your area through the Household Support Fund, contact your local council. You can locate your council using the GOV.UK council finder.
 "
-"16",2022-07-22,"Over 7.2 million payments of £326 have already been made to help households through the government’s Cost of Living support.","
+16,22/07/2022,Over 7.2 million payments of £326 have already been made to help households through the government’s Cost of Living support.,"
     
           7.2 million payments of £326 – worth a total of £2.4 billion – made in first week of Cost of Living support rollout
   Payments mark the first half of the £650 Cost of Living payment for low-income families, with the second half coming in the autumn
@@ -739,7 +739,7 @@ Those who are eligible should look out in their bank accounts for a payment of £
 
 Eligible claimants who have not received their payment yet should not be concerned, as the DWP expects some payments may take until 31 July 2022 to come through.
 "
-"17",2022-07-14,"Almost one in four families across England, Wales, Scotland and Northern Ireland will get £326 sent directly to them from today, with the second instalment of £324 sent later this year as part of the government’s £37 billion support package.","
+17,14/07/2022,"Almost one in four families across England, Wales, Scotland and Northern Ireland will get £326 sent directly to them from today, with the second instalment of £324 sent later this year as part of the government’s £37 billion support package.","
     
           £326 – the first of two cost of living payments – will automatically hit seven million bank accounts between today and 31 July 2022 as part of the government’s £37 billion support package
   Second instalment of £324 will follow from the autumn, with separate payments for pensioners and disabled people also coming later this year
@@ -782,7 +782,7 @@ The disability and pensioner payments come in addition to this, as does any supp
 
 Total government support this year for low-income families stands at £37 billion, a figure which includes a recent rise to £12,570 for the National Insurance starting thresholds. This will benefit 30 million working people and is worth £330 to a typical employee.
 "
-"18",2022-06-15,"Pensioners and their loved ones are being urged to take up Pension Credit as new figures show an estimated £1.7 billion in benefit is being left unclaimed.","
+18,15/06/2022,Pensioners and their loved ones are being urged to take up Pension Credit as new figures show an estimated £1.7 billion in benefit is being left unclaimed.,"
     
           Currently, over 1.4 million pensioners in Britain receive Pension Credit. However, many are still not claiming this extra financial help that can be worth over £3,300 a year.
 
@@ -837,7 +837,7 @@ Pension Credit is designed to help with daily living costs for people over State
 
 It tops up a person’s income to a minimum of £182.60 per week for single pensioners and to £278.70 for couples.
 "
-"19",2022-08-15,"A survey of thousands of individuals and small businesses shows how well banks are looking after their customers as people face the rising cost of living.","
+19,15/08/2022,A survey of thousands of individuals and small businesses shows how well banks are looking after their customers as people face the rising cost of living.,"
     
           The latest independent results from large scale surveys ranking the service quality of personal and business current account providers in Great Britain and Northern Ireland are available via the links below:
 
@@ -905,7 +905,7 @@ For media enquiries, please contact the CMA press office on 020 3738 6460 or pre
   Tell us if you think your bank has breached the Retail Banking Order. Get in touch at general.enquiries@cma.gov.uk.
   Please note that the CMA doesn’t intervene on behalf of individual customers, but we do enforce the requirements of the Order. If you think your supplier has misinformed or overcharged you, contact Citizens Advice or the Financial Ombudsman Service.
 "
-"20",2022-05-11,"The CMA’s most senior enforcer has warned that anyone looking to exploit the cost-of-living crisis by forming cartels risk robust enforcement action, including possible dawn raids.","
+20,11/05/2022,"The CMA’s most senior enforcer has warned that anyone looking to exploit the cost-of-living crisis by forming cartels risk robust enforcement action, including possible dawn raids.","
     
           In a speech today Michael Grenfell, Executive Director of enforcement at the Competition and Markets Authority (CMA), said the cost-of-living crisis would have a ‘huge impact’ on consumers but that competition was key to minimising that impact.  
 
@@ -925,7 +925,7 @@ Read Michael Grenfell’s full speech.
 
 
 "
-"21",2022-05-26,"Statement by the Chancellor of the Exchequer on Cost of Living Support.","
+21,26/05/2022,Statement by the Chancellor of the Exchequer on Cost of Living Support.,"
     
           
 Madam Deputy Speaker,
@@ -1312,7 +1312,7 @@ The British people can trust this government because we have a plan for a strong
 
 
 "
-"22",2022-05-27,"Guidance on getting an extra payment to help with the cost of living if you’re entitled to certain benefits or tax credits.","
+22,27/05/2022,Guidance on getting an extra payment to help with the cost of living if you’re entitled to certain benefits or tax credits.,"
     
           
 You may be able to get a payment to help with the cost of living if you’re in receipt of certain benefits or tax credits.
@@ -1332,7 +1332,7 @@ For more information, a full list of qualifying disability benefits, and details
 
 
 "
-"23",2022-07-08,"People worried about the cost of living or their debt payment plans are being urged to speak with their trustees, insolvency practitioners, or a debt adviser.","
+23,08/07/2022,"People worried about the cost of living or their debt payment plans are being urged to speak with their trustees, insolvency practitioners, or a debt adviser.","
     
           
 The government understands that people are worried about the impact of rising prices and its effect on household incomes.
@@ -1371,7 +1371,7 @@ phone: 0300 678 0015
 
 If you pay an Insolvency Practitioner or their collection agent, please contact them directly.
 "
-"24",2023-03-07,"New, more flexible system introduced to empower adults to upskill or retrain throughout their working lives.","
+24,07/03/2023,"New, more flexible system introduced to empower adults to upskill or retrain throughout their working lives.","
     
           
 People across the country are set to benefit from a complete overhaul of student finance, helping them get flexible loan funding to train, retrain and upskill throughout their working lives.
@@ -1561,7 +1561,7 @@ To prepare for 2025, and to help more people access Higher Technical Qualificati
 
 
 "
-"25",2022-11-15,"Over seven million payments of £324 have already been made to low-income families through the government’s cost of living support.","
+25,15/11/2022,Over seven million payments of £324 have already been made to low-income families through the government’s cost of living support.,"
     
           This means £2.3 billion has been paid out to over 99% of those eligible via DWP across England, Scotland, Wales and Northern Ireland since the beginning of the rollout last Tuesday.
 
@@ -1604,7 +1604,7 @@ This is the second instalment of the £650 Cost of Living Payment – part of the G
 
 On top of this, nearly one in 10 people have received the Government’s additional £150 disability payment this Autumn, and an estimated eight million pensioner households will receive an extra £300 in their Winter Fuel Payments this winter.
 "
-"26",2022-04-03,"Pensioners and their loved ones are being urged to take-up Pension Credit, as a new campaign is launched to help those of pension age with the cost of living.","
+26,03/04/2022,"Pensioners and their loved ones are being urged to take-up Pension Credit, as a new campaign is launched to help those of pension age with the cost of living.","
     
           It comes as new figures show many pensioners could be missing out on Pension Credit, a vital financial boost that can be worth over £3,300 a year.
 
@@ -1664,7 +1664,7 @@ Pension Credit is designed to help with daily living costs for people over State
 
 It tops up a person’s income to a minimum of £177.10 per week for single pensioners or £270.30 for couples. These amounts will rise to £182.60 per week for single pensioners and to £278.70 for couples from 11th April.
 "
-"27",2023-03-07,"The most vulnerable will be better supported to access justice despite the rising cost of living thanks to new proposals published today (7 March) to reform the government ‘Help with Fees’ scheme.","
+27,07/03/2023,The most vulnerable will be better supported to access justice despite the rising cost of living thanks to new proposals published today (7 March) to reform the government ‘Help with Fees’ scheme.,"
     
           
 
@@ -1711,7 +1711,7 @@ Help with Fees is the single fee remission scheme applicable to all courts and t
   The full consultation and proposals outlined can be found here: Revising the ‘Help with Fees’ remission scheme - GOV.UK
 
 "
-"28",2022-06-14,"David Buttress has been appointed as the Government’s new Cost of Living Business Tsar by the Chancellor of the Duchy of Lancaster.","
+28,14/06/2022,David Buttress has been appointed as the Government’s new Cost of Living Business Tsar by the Chancellor of the Duchy of Lancaster.,"
     
           
 David Buttress, former chief executive of Just Eat, has been appointed as the Government’s new Cost of Living Business Tsar by the Chancellor of the Duchy of Lancaster.
@@ -1755,7 +1755,7 @@ David Buttress will work in this role until the end of the year and is a volunta
 
 
 "
-"29",2022-11-08,"Almost one in four families across the UK will receive £324 from the government this month as the latest Cost of Living Payments are sent out from today (8 November 2022).","
+29,08/11/2022,Almost one in four families across the UK will receive £324 from the government this month as the latest Cost of Living Payments are sent out from today (8 November 2022).,"
     
           Over 8 million households in England, Wales, Scotland and Northern Ireland who claimed qualifying means-tested benefits during the eligibility period will be automatically paid £324 this month, as part of £1,200 worth of direct help for households.
 
@@ -1806,7 +1806,7 @@ The £324 payment and the overall £1,200 package come on top of wide-ranging gove
 
 As well as this, the Energy Price Guarantee is ensuring people across the country pay significantly less for their energy bills, with a typical household saving around £700 this winter.
 "
-"30",2022-03-23,"The Chancellor delivered a Spring Statement today that puts billions of pounds back into the pockets of hard-working people – unveiling a new Tax Plan to ease the rising cost of living and to deliver the biggest cut to personal taxes in a quarter of a century.","
+30,23/03/2022,The Chancellor delivered a Spring Statement today that puts billions of pounds back into the pockets of hard-working people – unveiling a new Tax Plan to ease the rising cost of living and to deliver the biggest cut to personal taxes in a quarter of a century.,"
     
           
 Chancellor announces tax cut for nearly 30 million UK workers through rise in National Insurance thresholds – saving the typical employee over £330 in the year from July.
@@ -1872,7 +1872,7 @@ The Spring Statement also confirms that:
 A new Efficiency and Value for Money Committee will be set up to cut £5.5 billion worth of cross-Whitehall waste – with savings to be used to fund public services.
   £50 million new funding will be provided to create a Public Sector Fraud Authority to hold departments account for their counter-fraud performance and to help them identify, seize and recover fraudsters money.
   Local residents across the UK will benefit from a fresh set of infrastructure projects as we open the second round of the £4.8 billion Levelling Up Fund. It will continue to focus on regeneration, transport and cultural investments."
-"31",2022-07-21,"Cost of Living Business Tsar and former Just Eat boss David Buttress agrees deals and discounts with major UK businesses to form part of Help for Household campaign.
+31,21/07/2022,"Cost of Living Business Tsar and former Just Eat boss David Buttress agrees deals and discounts with major UK businesses to form part of Help for Household campaign.
 ","
     
           
@@ -1972,7 +1972,7 @@ Ahmed Essam, CEO at Vodafone UK, said:
 
 
 "
-"32",2022-09-01,"Around 90% of eligible households have received the government’s £150 council tax rebate to help with the cost of living.","
+32,01/09/2022,Around 90% of eligible households have received the government’s £150 council tax rebate to help with the cost of living.,"
     
           
 
@@ -2017,7 +2017,7 @@ If households do not know who their local council is, they can find their websit
 
 See more information about government support on the cost of living.
 "
-"33",2023-01-06,"Changes are being made on 10 January 2023 to ensure individuals receiving cost of living support payments are not disadvantaged when applying for legal aid.","
+33,06/01/2023,Changes are being made on 10 January 2023 to ensure individuals receiving cost of living support payments are not disadvantaged when applying for legal aid.,"
     
           
 Amendments to civil and crime regulations take effect on 10 January to protect legal aid clients receiving cost of living support payments.
@@ -2050,7 +2050,7 @@ Amendments to legal aid eligibility legislation can be found in the relevant civ
 
 We are also updating GOV.UK guidance on 10 January to explain what these payments are and what you need to disregard when making financial determinations.
 "
-"34",2022-07-28,"Nearly 80% of eligible households received the government’s £150 council tax rebate in the first 3 months to help with the cost of living, figures published today show.","
+34,28/07/2022,"Nearly 80% of eligible households received the government’s £150 council tax rebate in the first 3 months to help with the cost of living, figures published today show.","
     
           
 A total of more than £2 billion has been handed to 15 million households in England under the scheme. Over 90% of households who had direct debits set up with their local council have received their council tax rebate.
@@ -2135,7 +2135,7 @@ Find more information about government support on the cost of living.
 
 
 "
-"35",2022-03-24,"CMA Chair Jonathan Scott says competition is “more important than ever before” as concerns mount over the cost of living.","
+35,24/03/2022,CMA Chair Jonathan Scott says competition is “more important than ever before” as concerns mount over the cost of living.,"
     
           The Annual Plan explains how the Competition and Markets Authority (CMA) will protect consumers, promote competition and help support the economy in the year ahead. It aims to encourage innovation, productivity, and sustainable growth to benefit all nations and regions of the UK.
 
@@ -2160,7 +2160,7 @@ For more information, read the annual plan in full.
 
 
 "
-"36",2022-10-20,"Tax credits only customers will receive their second Cost of Living payment from 23 November 2022.","
+36,20/10/2022,Tax credits only customers will receive their second Cost of Living payment from 23 November 2022.,"
     
           
 More than one million claimant families receiving tax credits, and no other means-tested benefits, will get their second Cost of Living Payment from Wednesday 23 November 2022, HM Revenue and Customs (HMRC) has confirmed.
@@ -2193,7 +2193,7 @@ A £400 reduction on energy bills is also being given to all domestic electricity
 
 The government is offering help for households. Customers should check GOV.UK to find out what cost of living support they could be eligible for.
 "
-"37",2022-08-25,"Around 1.1 million claimant families receiving tax credits will get their first Cost of Living Payment from Friday 2 September 2022, HM Revenue and Customs (HMRC) has confirmed.","
+37,25/08/2022,"Around 1.1 million claimant families receiving tax credits will get their first Cost of Living Payment from Friday 2 September 2022, HM Revenue and Customs (HMRC) has confirmed.","
     
           
 This £326 government payment will be paid automatically into eligible tax credit-only customers’ bank accounts between 2 and 7 September 2022. The first HMRC payments will total around £360 million.
@@ -2234,7 +2234,7 @@ This is all in addition to changes to the Universal Credit taper rate and work a
 
 The government is offering help for households. Customers should check GOV.UK to find out what cost of living support they could be eligible for.
 "
-"38",2022-11-15,"The recent announcement by Wandsworth Council to support its residents through the cost-of-living crisis now includes property buyers.","
+38,15/11/2022,The recent announcement by Wandsworth Council to support its residents through the cost-of-living crisis now includes property buyers.,"
     
           Today (15 November 2022), the council transferred its local land charges (LLC) service to the national LLC Register, giving citizens and businesses instant access to the information.
 
@@ -2260,7 +2260,7 @@ We are delighted that an increase in the speed of migrations has resulted in mor
 
 
 "
-"39",2022-11-29,"The UK’s biggest broadband and mobile operators have today met with the government to follow up on commitments agreed in the summer to support customers with the cost of living.","
+39,29/11/2022,The UK’s biggest broadband and mobile operators have today met with the government to follow up on commitments agreed in the summer to support customers with the cost of living.,"
     
           
 Summit comes as the government launches a public awareness campaign to raise awareness of cut-price social tariffs
@@ -2367,7 +2367,7 @@ Dana Tobak, Chief Executive of Hyperoptic said:
 
 
 "
-"40",2023-03-16,"A £27 billion tax cut for business and a trio of freezes to help families with the cost-of-living headlined the Chancellor’s Spring Budget ","
+40,16/03/2023,A £27 billion tax cut for business and a trio of freezes to help families with the cost-of-living headlined the Chancellor’s Spring Budget ,"
     
           
 A £27 billion tax cut for business through radical ‘full expensing’ policy and capital allowances reform which will drive investment and growth.
@@ -2453,7 +2453,7 @@ The Chancellor’s speech can be found here.
 
 
 "
-"41",2023-02-27,"Government launches portal for 900,000 additional GB households to apply for £400 payments towards energy bills","
+41,27/02/2023,"Government launches portal for 900,000 additional GB households to apply for £400 payments towards energy bills","
     
           
 
@@ -2523,7 +2523,7 @@ Households eligible to apply for support under EBSS Alternative Funding include:
 
 
 "
-"42",2023-03-14,"CMA investigation finds Asda’s purchase of 132 petrol stations and attached grocery stores from the Co-op could mean higher prices or less choice for  motorists or shoppers in 13 areas.","
+42,14/03/2023,CMA investigation finds Asda’s purchase of 132 petrol stations and attached grocery stores from the Co-op could mean higher prices or less choice for  motorists or shoppers in 13 areas.,"
     
           In January 2023, the Competition and Markets Authority (CMA) opened a Phase 1 investigation into the completed acquisition by Asda of Arthur Foodstores Limited, a company set up by Co-op to sell its 132 petrol forecourt sites.
 
@@ -2562,7 +2562,7 @@ Notes to editors
     All enquiries from the public should be directed to the CMA’s General Enquiries team on general.enquiries@cma.gov.uk or 020 3738 6000.
   
 "
-"43",2023-02-21,"Around 400,000 women across England will get better access to menopause support – saving hundreds of pounds and making treatment more accessible. 
+43,21/02/2023,"Around 400,000 women across England will get better access to menopause support – saving hundreds of pounds and making treatment more accessible. 
 ","
     
           
@@ -2727,7 +2727,7 @@ Product name
     
 
 "
-"44",2023-03-09,"UKHSA, ONS and the University of Oxford are thanking over 500,000 people from across the UK for their contribution to the COVID-19 Infection Survey.","
+44,09/03/2023,"UKHSA, ONS and the University of Oxford are thanking over 500,000 people from across the UK for their contribution to the COVID-19 Infection Survey.","
     
           Set up in April 2020, the COVID-19 Infection Survey (CIS) regularly gathered and analysed more than 11 million swab tests and 3 million blood tests from households.
 
@@ -2808,7 +2808,7 @@ Nobel House
 
 
 "
-"45",2023-03-15,"Spring Budget 2023 speech as delivered by Chancellor Jeremy Hunt.","
+45,15/03/2023,Spring Budget 2023 speech as delivered by Chancellor Jeremy Hunt.,"
     
           
 Madam Deputy Speaker, in the face of enormous challenges I report today on a British economy which is proving the doubters wrong.
@@ -3313,269 +3313,270 @@ Thanks to the reforms courageously introduced by the Rt Hon Member for Chingford
 
 But even after that we could fill half the vacancies in the economy with people who say they would like to work despite being inactive due to sickness or disability.
 
-With Zoom, Teams and new working models that make it easier to work from home this is more possible than ever before.
-
-So for that reason, the ever-diligent Work and Pensions Secretary, today takes the next step in his ground-breaking work on tackling economic inactivity.
-
-I thank him for that, and today we publish a White Paper on disability benefits reform.
-
-It is the biggest change to our welfare system in a decade.
-
-His plans will abolish the Work Capability Assessment in Great Britain and separate benefit entitlement from an individual’s ability to work. As a result, disabled benefit claimants will always be able to seek work without fear of losing financial support.
-
-Today I am going further by announcing that in England and Wales, after listening to representations from the Centre for Social Justice and others, we will fund a new programme called Universal Support.
-
+With Zoom, Teams and n"
+w working models that make it easier to work from home this is more possible than ever before.,,,
+,,,
+So for that reason, the ever-diligent Work and Pensions Secretary, today takes the next step in his ground-breaking work on tackling economic inactivity.,
+,,,
+I thank him for that, and today we publish a White Paper on disability benefits reform.,,
+,,,
+It is the biggest change to our welfare system in a decade.,,,
+,,,
+His plans will abolish the Work Capability Assessment in Great Britain and separate benefit entitlement from an individual’s ability to work. As a result, disabled benefit claimants will always be able to seek work without fear of losing financial support.,,
+,,,
+Today I am going further by announcing that in England and Wales, after listening to representations from the Centre for Social Justice and others, we will fund a new programme called Universal Support.,
+,,,
 This is a new, voluntary employment scheme for disabled people where the government will spend up to £4,000 per person to help them find appropriate jobs and put in place the support they need. It will fund 50,000 places every single year.
-
-We also want to help those who are forced to leave work because of a health condition such as back pain or a mental health issue.
-
-We should give them support before they end up leaving their job, so I am also announcing a £400m plan to increase the availability of mental health and musculoskeletal resources and expand the Individual Placement and Support scheme.
-
-And because occupational health provided by employers has a key role to play, I will also bring forward two new consultations on how to improve its availability and double the funding for the small company subsidy pilot.
-
-Young people in care
-
-There is another group that deserves particular attention, which is children in care. They too should be given all possible help to make a normal working life possible when they reach adulthood.
-
+,,,
+We also want to help those who are forced to leave work because of a health condition such as back pain or a mental health issue.,,,
+,,,
+We should give them support before they end up leaving their job, so I am also announcing a £400m plan to increase the availability of mental health and musculoskeletal resources and expand the Individual Placement and Support scheme.,,
+,,,
+And because occupational health provided by employers has a key role to play, I will also bring forward two new consultations on how to improve its availability and double the funding for the small company subsidy pilot.,,
+,,,
+Young people in care,,,
+,,,
+There is another group that deserves particular attention, which is children in care. They too should be given all possible help to make a normal working life possible when they reach adulthood.,,
+,,,
 Often, they depend on foster families who do a brilliant job, so I am today nearly doubling the Qualifying Care Relief threshold to £18,140 which will give a tax cut to a qualifying carer worth an average of £450 a year.
-
-I will also increase the funding we provide to the Staying Close programme by 50% to help more care leavers into employment.
-
-And I will support young people with Special Educational Needs and Disabilities with a £3m pilot expansion of the Department for Education’s Supported Internship programme to help them transition from education into the workplace.
-
-Madam Deputy Speaker, no civilised society can ignore the contribution that can be made by those with challenging family circumstances, a long-term illness or a disability.
-
-So today we remove the barriers we can with reforms that strengthen our society as well as strengthening our economy.
-
-Welfare recipients
-
-The next set of employment reforms affects those on Universal Credit without a health condition who are looking for work or on low earnings.
-
-There are more than 2 million jobseekers in this group, more than enough to fill every single vacancy in the economy.
-
-Independence is always better than dependence, which is why we believe those who can work, should.
-
-So sanctions will be applied more rigorously to those who fail to meet strict work-search requirements or choose not to take up a reasonable job offer.
-
-And for those working low hours, we will increase the Administrative Earnings Threshold from the equivalent of 15 hours to 18 hours at National Living Wage for an individual claimant, meaning that anyone working below this level will receive more work coach support alongside a more intensive conditionality regime.
-
-Older workers including doctors
-
-The next group of workers I want to support are those aged over 50.
-
-My younger officials have termed these people “older workers”, although as a 56-year-old myself I prefer the term “experienced.”
-
-Fully 3.5 million of pre-retirement age over 50 are not part of the labour force, an increase of 320,000 since before the pandemic.
-
-We now have the 23rd highest inactivity rate for over 55s in the OECD.
-
-If we matched the rate of Sweden, we would add more than one million people to our national labour force.
-
-Madam Deputy Speaker, I say this not to flatter you, but older people are the most skilled and experienced people we have.
-
-No country can thrive if it turns its back on such a wealth of talent and ability.
-
-But for too many, turning 50 is a moment of anxiety about the cliff edge of retirement rather than a moment of anticipation about another two decades of fulfilment.
-
-I know this myself from personal experience. After I turned 50, I was relegated to the backbenches and planned for a quiet life. But instead I decided to set an example by embarking on a new career in finance.
-
-So today I take three steps to make it easier for those who wish to work longer to do so.
-
-First, we will increase the number of people who get the best possible financial, health and career guidance ahead of retirement by enhancing the DWP’s excellent “Mid-life MOT” Strategy.
-
-They will also increase by fivefold the number of 50+ Universal Credit claimants who receive mid-life MOTs from 8,000 to 40,000 a year.
-
-Second with my RHF the Education Secretary, we will introduce a new kind of apprenticeship targeted at the over 50s who want to return to work.
-
-They will be called Returnerships, and operate alongside skills boot camps and sector-based work academies.
-
-They will bring together our existing skills programmes to make them more appealing for older workers, focussing on flexibility and previous experience to reduce training length.
-
-Finally, I have listened to the concerns of many senior NHS clinicians who say unpredictable pension tax charges are making them leave the NHS just when they are needed most.
-
-The NHS is our biggest employer, and we will shortly publish the long-term workforce plan I promised in the Autumn Statement.
-
-But ahead of that I do not want any doctor to retire early because of the way pension taxes work.
-
-As Chancellor I have realised the issue goes wider than doctors.
-
-No one should be pushed out of the workforce for tax reasons.
-
-So today I will increase the pensions annual tax-free allowance by 50% from £40,000 to £60,000.
-
-Some have also asked me to increase the Lifetime Allowance from its £1 million limit.
-
-But I have decided not to do that.
-
-Instead I will go further and abolish the Lifetime Allowance altogether.
-
-It’s a pension tax reform that will…
-
-… stop over 80% of NHS doctors from receiving a tax charge.
-
-… incentivise our most experienced and productive workers to stay in work for longer.
-
-… and simplify our tax system, taking thousands of people out of the complexity of pension tax.
-
-Madam Deputy Speaker, a comprehensive plan to remove the barriers to work facing those on benefits, those with health conditions and older workers. That is the ‘e’ of the employment pillar of today’s growth budget.
-
-Education
-
-Which brings me to the final pillar of our growth plan. After Employment, Enterprise and Everywhere I turn to the ‘e’ of Education.
-
-Over more than a decade, this government has driven improvement in our education system.
-
-We have risen by nearly 10 places in the international league tables for English and maths since 2015 alone.
-
-In the Autumn Statement, I built on this progress with an extra £2.3bn annual investment to our schools.
-
-We are reviewing our approach to skills with Sir Michael Barber.
-
-We have set out our plans to transform lifelong learning with a new Lifelong Loan Entitlement…
-
-…and My RHF the PM announced plans to make maths compulsory till 18.
-
-But today I want to address an issue in our education system that is bad for children and damaging for the economy.
-
-It’s an issue that starts even before a child enters the gates of a school.
-
-Today I want to reform our childcare system.
-
-We have the one of the most expensive systems in the world.
-
-Almost half of non-working mothers said they would prefer to work if they could arrange suitable childcare.
-
-For many women, a career break becomes a career end.
-
-Our female participation rate is higher than average for OECD economies, but we trail top performers like Denmark and the Netherlands.
-
-If we matched Dutch levels of participation, there would be more than one million additional women working.
-
-So today I announce a series of reforms to start that journey.
-
-Supply
-
-I begin with the supply of childcare. We have seen a significant decline in childminders over recent years – down 9% in England in just one year.
-
-But childminders are a vital way to deliver affordable and flexible care and we need more of them.
-
-I have listened to representations from my hon friend from Stroud and decided to address this by piloting incentive payments of £600 for childminders who sign up to the profession, rising to £1,200 for those who join through an agency.
-
-I have also heard many concerns about cost pressures facing the sector.
-
-We know this is making it hard to hire staff and raising prices for parents, with around two thirds of childcare providers increasing fees last year alone.
-
-So we will increase the funding paid to nurseries providing free childcare under the hours offer by £204m from this September rising to £288 million next year.
-
-This is an average of a 30% increase in the two-year-old rate this year, just as the sector has requested.
-
-I will also offer providers more flexibility in how they operate in line with other parts of the UK. So alongside that additional funding, we will change minimum staff-to-child ratios from 1:4 to 1:5 for two-year-olds in England as happens in Scotland, although the new ratios will remain optional with no obligation on either childminders or parents to adopt them.
-
-UC claimants
-
-I want to help the 700,000 parents on universal credit who, until the reforms I announced today had limited requirements to look for work. Many remain out of work because they cannot afford the upfront payment necessary to access subsidised childcare.
-
-So for any parents who are moving into work or wants to increase their hours, we will pay their childcare costs upfront.
-
-And we will increase the maximum they can claim to £951 for one child and £1,630 for two children, an increase of almost 50%.
-
-School age children
-
-I turn now to parents of school age children, who often face barriers to working because of the limited availability of wraparound care.
-
-One third of primary schools do not offer childcare at both ends of the school day, even though for many people a job requires availability throughout the working day.
-
-To address this, we will fund schools and local authorities to increase supply of wraparound care so all school-age parents can drop their children off between 8am and 6pm.
-
-Our ambition is that all schools will start to offer a wraparound offer, either on their own or in partnership with other schools, by September 2026.
-
-Pre-school children
-
-Madam Deputy Speaker, today’s childcare reforms will increase the availability of childcare, reduce costs and increase the number of parents able to use it.
-
-Taken together with earlier reforms, they amount to the most significant improvements to childcare provision in a decade.
-
-But if we really want to remove the barriers to work we need to go further for parents who have a child under 3.
-
-For them childcare remains just too expensive.
-
-In 2010 there was barely any free childcare for under 5s.
-
-The government changed that with free childcare for 3- and 4-year-olds in England.
-
-It was a landmark reform.
-
-But not a complete one.
-
+,,,
+I will also increase the funding we provide to the Staying Close programme by 50% to help more care leavers into employment.,,,
+,,,
+And I will support young people with Special Educational Needs and Disabilities with a £3m pilot expansion of the Department for Education’s Supported Internship programme to help them transition from education into the workplace.,,,
+,,,
+Madam Deputy Speaker, no civilised society can ignore the contribution that can be made by those with challenging family circumstances, a long-term illness or a disability.,
+,,,
+So today we remove the barriers we can with reforms that strengthen our society as well as strengthening our economy.,,,
+,,,
+Welfare recipients,,,
+,,,
+The next set of employment reforms affects those on Universal Credit without a health condition who are looking for work or on low earnings.,,,
+,,,
+There are more than 2 million jobseekers in this group, more than enough to fill every single vacancy in the economy.,,
+,,,
+Independence is always better than dependence, which is why we believe those who can work, should.,
+,,,
+So sanctions will be applied more rigorously to those who fail to meet strict work-search requirements or choose not to take up a reasonable job offer.,,,
+,,,
+And for those working low hours, we will increase the Administrative Earnings Threshold from the equivalent of 15 hours to 18 hours at National Living Wage for an individual claimant, meaning that anyone working below this level will receive more work coach support alongside a more intensive conditionality regime.,
+,,,
+Older workers including doctors,,,
+,,,
+The next group of workers I want to support are those aged over 50.,,,
+,,,
+My younger officials have termed these people “older workers”, although as a 56-year-old myself I prefer the term “experienced.”,,
+,,,
+Fully 3.5 million of pre-retirement age over 50 are not part of the labour force, an increase of 320,000 since before the pandemic.,
+,,,
+We now have the 23rd highest inactivity rate for over 55s in the OECD.,,,
+,,,
+If we matched the rate of Sweden, we would add more than one million people to our national labour force.,,
+,,,
+Madam Deputy Speaker, I say this not to flatter you, but older people are the most skilled and experienced people we have.,
+,,,
+No country can thrive if it turns its back on such a wealth of talent and ability.,,,
+,,,
+But for too many, turning 50 is a moment of anxiety about the cliff edge of retirement rather than a moment of anticipation about another two decades of fulfilment.,,
+,,,
+I know this myself from personal experience. After I turned 50, I was relegated to the backbenches and planned for a quiet life. But instead I decided to set an example by embarking on a new career in finance.,,
+,,,
+So today I take three steps to make it easier for those who wish to work longer to do so.,,,
+,,,
+First, we will increase the number of people who get the best possible financial, health and career guidance ahead of retirement by enhancing the DWP’s excellent “Mid-life MOT” Strategy.,
+,,,
+They will also increase by fivefold the number of 50+ Universal Credit claimants who receive mid-life MOTs from 8,000 to 40,000 a year.,
+,,,
+Second with my RHF the Education Secretary, we will introduce a new kind of apprenticeship targeted at the over 50s who want to return to work.,,
+,,,
+They will be called Returnerships, and operate alongside skills boot camps and sector-based work academies.,,
+,,,
+They will bring together our existing skills programmes to make them more appealing for older workers, focussing on flexibility and previous experience to reduce training length.,,
+,,,
+Finally, I have listened to the concerns of many senior NHS clinicians who say unpredictable pension tax charges are making them leave the NHS just when they are needed most.,,
+,,,
+The NHS is our biggest employer, and we will shortly publish the long-term workforce plan I promised in the Autumn Statement.,,
+,,,
+But ahead of that I do not want any doctor to retire early because of the way pension taxes work.,,,
+,,,
+As Chancellor I have realised the issue goes wider than doctors.,,,
+,,,
+No one should be pushed out of the workforce for tax reasons.,,,
+,,,
+So today I will increase the pensions annual tax-free allowance by 50% from £40,000 to £60,0,
+,,,
+Some have also asked me to increase the Lifetime Allowance from its £1 million limit.,,,
+,,,
+But I have decided not to do that.,,,
+,,,
+Instead I will go further and abolish the Lifetime Allowance altogether.,,,
+,,,
+It’s a pension tax reform that will…,,,
+,,,
+… stop over 80% of NHS doctors from receiving a tax charge.,,,
+,,,
+… incentivise our most experienced and productive workers to stay in work for longer.,,,
+,,,
+… and simplify our tax system, taking thousands of people out of the complexity of pension tax.,,
+,,,
+Madam Deputy Speaker, a comprehensive plan to remove the barriers to work facing those on benefits, those with health conditions and older workers. That is the ‘e’ of the employment pillar of today’s growth budget.,
+,,,
+Education,,,
+,,,
+Which brings me to the final pillar of our growth plan. After Employment, Enterprise and Everywhere I turn to the ‘e’ of Education.,,
+,,,
+Over more than a decade, this government has driven improvement in our education system.,,
+,,,
+We have risen by nearly 10 places in the international league tables for English and maths since 2015 alone.,,,
+,,,
+In the Autumn Statement, I built on this progress with an extra £2.3bn annual investment to our schools.,,
+,,,
+We are reviewing our approach to skills with Sir Michael Barber.,,,
+,,,
+We have set out our plans to transform lifelong learning with a new Lifelong Loan Entitlement…,,,
+,,,
+…and My RHF the PM announced plans to make maths compulsory till 18.,,,
+,,,
+But today I want to address an issue in our education system that is bad for children and damaging for the economy.,,,
+,,,
+It’s an issue that starts even before a child enters the gates of a school.,,,
+,,,
+Today I want to reform our childcare system.,,,
+,,,
+We have the one of the most expensive systems in the world.,,,
+,,,
+Almost half of non-working mothers said they would prefer to work if they could arrange suitable childcare.,,,
+,,,
+For many women, a career break becomes a career end.,,
+,,,
+Our female participation rate is higher than average for OECD economies, but we trail top performers like Denmark and the Netherlands.,,
+,,,
+If we matched Dutch levels of participation, there would be more than one million additional women working.,,
+,,,
+So today I announce a series of reforms to start that journey.,,,
+,,,
+Supply,,,
+,,,
+I begin with the supply of childcare. We have seen a significant decline in childminders over recent years – down 9% in England in just one year.,,,
+,,,
+But childminders are a vital way to deliver affordable and flexible care and we need more of them.,,,
+,,,
+I have listened to representations from my hon friend from Stroud and decided to address this by piloting incentive payments of £600 for childminders who sign up to the profession, rising to £1,200 for those who join through an agency.,
+,,,
+I have also heard many concerns about cost pressures facing the sector.,,,
+,,,
+We know this is making it hard to hire staff and raising prices for parents, with around two thirds of childcare providers increasing fees last year alone.,,
+,,,
+So we will increase the funding paid to nurseries providing free childcare under the hours offer by £204m from this September rising to £288 million next year.,,,
+,,,
+This is an average of a 30% increase in the two-year-old rate this year, just as the sector has requested.,,
+,,,
+I will also offer providers more flexibility in how they operate in line with other parts of the UK. So alongside that additional funding, we will change minimum staff-to-child ratios from 1:4 to 1:5 for two-year-olds in England as happens in Scotland, although the new ratios will remain optional with no obligation on either childminders or parents to adopt them.,
+,,,
+UC claimants,,,
+,,,
+I want to help the 700,000 parents on universal credit who, until the reforms I announced today had limited requirements to look for work. Many remain out of work because they cannot afford the upfront payment necessary to access subsidised childcare.,
+,,,
+So for any parents who are moving into work or wants to increase their hours, we will pay their childcare costs upfront.,,
+,,,
+And we will increase the maximum they can claim to £951 for one child and £1,630 for two children, an increase of almost 50%.,
+,,,
+School age children,,,
+,,,
+I turn now to parents of school age children, who often face barriers to working because of the limited availability of wraparound care.,,
+,,,
+One third of primary schools do not offer childcare at both ends of the school day, even though for many people a job requires availability throughout the working day.,,
+,,,
+To address this, we will fund schools and local authorities to increase supply of wraparound care so all school-age parents can drop their children off between 8am and 6pm.,,
+,,,
+Our ambition is that all schools will start to offer a wraparound offer, either on their own or in partnership with other schools, by September 2026.,
+,,,
+Pre-school children,,,
+,,,
+Madam Deputy Speaker, today’s childcare reforms will increase the availability of childcare, reduce costs and increase the number of parents able to use it.,
+,,,
+Taken together with earlier reforms, they amount to the most significant improvements to childcare provision in a decade.,,
+,,,
+But if we really want to remove the barriers to work we need to go further for parents who have a child under 3.,,,
+,,,
+For them childcare remains just too expensive.,,,
+,,,
+In 2010 there was barely any free childcare for under 5s.,,,
+,,,
+The government changed that with free childcare for 3- and 4-year-olds in England.,,,
+,,,
+It was a landmark reform.,,,
+,,,
+But not a complete one.,,,
+,,,
 I don’t want any parent with a child under 5 to be prevented from working, if they want to, because it is damaging to our economy and unfair, mainly to women.
-
-So today I announce that in eligible households where all adults are working at least 16 hours, we will introduce 30 hours of free childcare not just for 3-and-4 year-olds, but for every single child over the age of 9 months.
-
-The 30 hours offer will now start from the moment maternity or paternity leave ends.
-
-It’s a package worth on average £6,500 every year for a family with a two-year-old child using 35 hours of childcare every week…
-
-… and reduces their childcare costs by nearly 60%.
-
-Because it is such a large reform, we will introduce it in stages to ensure there is enough supply in the market.
-
-Working parents of two-year-olds will be able to access 15 hours of free care from April 2024, helping around half a million parents.
-
-From September 2024, that 15 hours will be extended to all children from 9 months up, meaning a total of nearly one million parents will be eligible.
-
-And from September 2025 every single working parent of under 5s will have access to 30 hours free childcare per week.
-
-Today we complete a landmark reform…
-
-…we help the economy
-
-…transform the lives of thousands of women
-
-…and build a childcare system comparable to the best.
-
+,,,
+So today I announce that in eligible households where all adults are working at least 16 hours, we will introduce 30 hours of free childcare not just for 3-and-4 year-olds, but for every single child over the age of 9 months.,
+,,,
+The 30 hours offer will now start from the moment maternity or paternity leave ends.,,,
+,,,
+It’s a package worth on average £6,500 every year for a family with a two-year-old child using 35 hours of childcare every week…,,
+,,,
+… and reduces their childcare costs by nearly 60%.,,,
+,,,
+Because it is such a large reform, we will introduce it in stages to ensure there is enough supply in the market.,,
+,,,
+Working parents of two-year-olds will be able to access 15 hours of free care from April 2024, helping around half a million parents.,,
+,,,
+From September 2024, that 15 hours will be extended to all children from 9 months up, meaning a total of nearly one million parents will be eligible.,
+,,,
+And from September 2025 every single working parent of under 5s will have access to 30 hours free childcare per week.,,,
+,,,
+Today we complete a landmark reform…,,,
+,,,
+…we help the economy,,,
+,,,
+…transform the lives of thousands of women,,,
+,,,
+…and build a childcare system comparable to the best.,,,
+,,,
 A major early years reform for our education system, the ‘E’ of education alongside the three other pillars of our growth plan, enterprise, employment and everywhere.
-
-Madam Deputy Speaker in November we delivered stability.
-
-Today it’s growth.
-
-We tackle the two biggest barriers that stop businesses growing - investment incentives and labour supply.
-
-The best investment incentives in Europe.
-
-The biggest ever employment package.
-
-For disabled people, more help.
-
-For older people, barriers removed.
-
-For families feeling the pinch…
-
-…fuel duty frozen.
-
-…beer duty cut.
-
-…energy bills capped.
-
-And for parents, 30 hours of free childcare for all under 5s.
-
-Today we build for the future with…
-
-…inflation down
-
-…debt falling
-
-…and growth up.
-
-The declinists are wrong, and the optimists are right.
-
-We stick to the plan because the plan is working.
-
-And I commend this statement to the House.
-
-
+,,,
+Madam Deputy Speaker in November we delivered stability.,,,
+,,,
+Today it’s growth.,,,
+,,,
+We tackle the two biggest barriers that stop businesses growing - investment incentives and labour supply.,,,
+,,,
+The best investment incentives in Europe.,,,
+,,,
+The biggest ever employment package.,,,
+,,,
+For disabled people, more help.,,
+,,,
+For older people, barriers removed.,,
+,,,
+For families feeling the pinch…,,,
+,,,
+…fuel duty frozen.,,,
+,,,
+…beer duty cut.,,,
+,,,
+…energy bills capped.,,,
+,,,
+And for parents, 30 hours of free childcare for all under 5s.,,
+,,,
+Today we build for the future with…,,,
+,,,
+…inflation down,,,
+,,,
+…debt falling,,,
+,,,
+…and growth up.,,,
+,,,
+The declinists are wrong, and the optimists are right.,,
+,,,
+We stick to the plan because the plan is working.,,,
+,,,
+And I commend this statement to the House.,,,
+,,,
+,,,
 "
-"46",2022-08-31,"Under the proposals being consulted on, a cap on social housing rent increases would be put in place for the coming financial year, with options at 3%, 5% and 7% being considered.","
+46""",31/08/2022,"Under the proposals being consulted on, a cap on social housing rent increases would be put in place for the coming financial year, with options at 3%, 5% and 7% being considered.","
     
           
 
@@ -3622,7 +3623,7 @@ Geeta Nanda OBE, Chair of the G15 group of leading housing associations and Chie
   In getting the balance right on rent setting, we are committed to maintaining affordability for residents. We welcome the government’s consultation and the opportunity to discuss these important issues further.
 
 "
-"47",2023-01-16,"Sky is the first national provider to help their customers access cheaper broadband by signing up to the Department for Work and Pensions scheme for benefit claimants.","
+47,16/01/2023,Sky is the first national provider to help their customers access cheaper broadband by signing up to the Department for Work and Pensions scheme for benefit claimants.,"
     
           
     Sky is the first major connectivity provider to join DWP initiative making it easier for benefits claimants to get discounted broadband and mobile tariffs
@@ -3666,7 +3667,7 @@ Broadband social tariff take-up more than doubled in 2022 to 136,000 households 
 
 Those in receipt of benefits interested in exploring broadband tariff options should visit Ofcom’s website to view the full list of options on offer from providers.
 "
-"48",2022-05-15,"Cost of NHS prescriptions will be frozen for the first time in over a decade. ","
+48,15/05/2022,Cost of NHS prescriptions will be frozen for the first time in over a decade. ,"
     
           
 Freeze will help ease the cost of living pressures on households, saving £17 million overall
@@ -3715,7 +3716,7 @@ are 60 or over
 
 
 "
-"49",2022-11-23,"Government is stepping in to provide pensioners with £300 per household, which comes on top of regular Winter Fuel Payments.","
+49,23/11/2022,"Government is stepping in to provide pensioners with £300 per household, which comes on top of regular Winter Fuel Payments.","
     
           From today, over 11.6 million pensioners will start to receive up to £600 to help with their energy bills this winter, as prices are pushed up by Putin’s illegal war in Ukraine.
   This support, worth over £4.5 billion, is part of an extensive package helping people of all ages with the cost of heating their homes, including through the £400 Energy Bills Support Scheme [available to eligible households in England, Scotland and Wales], and the Energy Price Guarantee saving typical households £900.
@@ -3753,7 +3754,7 @@ The online Pension Credit calculator is on hand to help pensioners check if they
 
 Further cost of living support to be paid next year was announced by the Chancellor in his Autumn Statement last week. Payments will include a further £300 for pensioners, £900 for households on means-tested benefits and £150 for those on disability benefits.
 "
-"50",2022-03-23,"The Chancellor delivered a Spring Statement today (23 March) that puts billions of pounds back into the pockets of hard-working people in Scotland – unveiling a series of tax cuts to ease the cost of living.","
+50,23/03/2022,The Chancellor delivered a Spring Statement today (23 March) that puts billions of pounds back into the pockets of hard-working people in Scotland – unveiling a series of tax cuts to ease the cost of living.,"
     
           
 
@@ -3829,7 +3830,7 @@ The Spring Statement also confirms that:
   
     Local residents across the UK will benefit from a fresh set of infrastructure projects as we open the second round of the £4.8 billion Levelling Up Fund. It will continue to focus on regeneration, transport and cultural investments.
   "
-"51",2022-03-23,"The Chancellor delivered a Spring Statement today (23 March) that puts billions of pounds back into the pockets of hard-working people in Northern Ireland – unveiling a series of tax cuts to ease the cost of living.  
+51,23/03/2022,"The Chancellor delivered a Spring Statement today (23 March) that puts billions of pounds back into the pockets of hard-working people in Northern Ireland – unveiling a series of tax cuts to ease the cost of living.  
  
 ","
     
@@ -3905,7 +3906,7 @@ The Spring Statement also confirms that:
   
     Local residents across the UK will benefit from a fresh set of infrastructure projects as we open the second round of the £4.8 billion Levelling Up Fund. It will continue to focus on regeneration, transport and cultural investments.
   "
-"52",2022-03-23,"The Chancellor delivered a Spring Statement today (23 March) that puts billions of pounds back into the pockets of hard-working people in Wales – unveiling a series of tax cuts to ease the cost of living.  ","
+52,23/03/2022,The Chancellor delivered a Spring Statement today (23 March) that puts billions of pounds back into the pockets of hard-working people in Wales – unveiling a series of tax cuts to ease the cost of living.  ,"
     
           
 
@@ -3977,7 +3978,7 @@ The Spring Statement also confirms that:
   
     Local residents across the UK will benefit from a fresh set of infrastructure projects as we open the second round of the £4.8 billion Levelling Up Fund. It will continue to focus on regeneration, transport and cultural investments
   "
-"53",2023-01-31,"The CMA is today starting a programme of work looking into unit pricing practices online and instore in the groceries sector.  Unit pricing shows how much a particular product costs by weight or volume, which helps people identify best value for money.","
+53,31/01/2023,"The CMA is today starting a programme of work looking into unit pricing practices online and instore in the groceries sector.  Unit pricing shows how much a particular product costs by weight or volume, which helps people identify best value for money.","
     
           In the context of the rising cost of living, people shopping for food and other essential products need confidence that they have the right information to make great choices and are getting fair deals. It is important that shoppers who look at the prices of products should be able to compare like for like.  This, together with recent concerns raised by stakeholders, has led the CMA to revisit the issue of unit pricing.
 
@@ -4019,7 +4020,7 @@ Notes to editors
 
 For media enquiries, contact the CMA press office on 020 3738 6460 or press@cma.gov.uk.
 "
-"54",2022-07-29,"More than 8.9 million grants have been given to families to help with post-pandemic pressures through a fund set up to help the most vulnerable, new figures reveal.","
+54,29/07/2022,"More than 8.9 million grants have been given to families to help with post-pandemic pressures through a fund set up to help the most vulnerable, new figures reveal.","
     
           8.9 million grants given to families in first round of Household Support Fund, new data shows
   Local Authorities use government funding to help communities with innovative measures
@@ -4052,7 +4053,7 @@ To access the latest round of funding available people should contact their uppe
 
 By the end of March 2023, £1.262 billion in additional support will have been given out in England to help people with rising costs. Devolved governments will have received a total of £238 million through the Barnett Formula.
 "
-"55",2021-01-28,"Responsible tenants in England with well-behaved pets will be able to secure leases more easily through a new standard tenancy agreement.","
+55,28/01/2021,Responsible tenants in England with well-behaved pets will be able to secure leases more easily through a new standard tenancy agreement.,"
     
           
 
@@ -4083,7 +4084,7 @@ Housing Minister Rt Hon Christopher Pincher MP said:
   For those who choose to use the revised Model Tenancy Agreement, we are bringing an end to the unfair default blanket ban on pets introduced by some landlords. This strikes the right balance between helping more people find a home that’s right for them and their pet while ensuring landlords’ properties are safeguarded against inappropriate or badly behaved pets.
 
 "
-"56",2022-05-27,"Over 347,000 unemployed people on benefits have found work in just four months through the government’s Way to Work campaign – an ambitious national push to get half a million more people into jobs by the end of June.","
+56,27/05/2022,"Over 347,000 unemployed people on benefits have found work in just four months through the government’s Way to Work campaign – an ambitious national push to get half a million more people into jobs by the end of June.","
     
           new figures show 347,000 people have moved into work since January – thanks to a government-backed drive to fill vacancies
   with one month to go until the campaign ends, the government is calling on UK employers to join forces with Jobcentres to help more people find work
@@ -4124,7 +4125,7 @@ Alongside vital job support to help jobseekers secure an income, the new £15 bil
 
 The government has also announced a £500 million increase for the Household Support Fund, delivered by local authorities, extending it to March 2023. This brings the total Household Support Fund to £1.5 billion.
 "
-"57",2019-08-28,"The Prime Minister has announced plans to bring forward a new bold and ambitious legislative agenda: helping the NHS, fighting violent crime, investing in infrastructure and science and cutting the cost of living.","
+57,28/08/2019,"The Prime Minister has announced plans to bring forward a new bold and ambitious legislative agenda: helping the NHS, fighting violent crime, investing in infrastructure and science and cutting the cost of living.","
     
           
 The Prime Minister has briefed Cabinet colleagues that the government will bring forward an ambitious new legislative programme for MPs’ approval, and that the current parliamentary session will be brought to an end.
@@ -4149,7 +4150,7 @@ The Prime Minister said:
 
 
 "
-"58",2022-04-13,"Abused women, drug addicts and offenders serving short sentences will be supported to turn their lives away from crime, as the Government backs specialist schemes aimed at criminals more likely to reoffend.","
+58,13/04/2022,"Abused women, drug addicts and offenders serving short sentences will be supported to turn their lives away from crime, as the Government backs specialist schemes aimed at criminals more likely to reoffend.","
     
           
 
@@ -4238,7 +4239,7 @@ The £6.7million government-funded Local Leadership and Integration Fund (LLIF) h
       St Giles Trust - Providing housing and mental health support for offenders in Yorkshire with complex needs who are released on Friday, when many services are shut.
     
 "
-"59",2022-04-29,"The CMA has published its second assessment of how well competition is working in the UK and what that means for people and businesses.","
+59,29/04/2022,The CMA has published its second assessment of how well competition is working in the UK and what that means for people and businesses.,"
     
           Effective competition helps make sure shoppers and households get a fair deal when buying goods and services. This is especially important at a time when the UK is recovering from the COVID-19 pandemic and facing a rising cost of living.
 
@@ -4280,7 +4281,7 @@ Notes to editors
 
 The CMA is extremely grateful for the assistance of Steve Davies, professor of economics at the University of East Anglia and Dr Anthony Savagar, associate professor in economics at the University of Kent in advising on the report structure, reviewing the methodology used and providing critical review of the final report.
 "
-"60",2019-09-23,"Government commits to funding healthcare for over 180,000 UK nationals living in the EU for 6 months following Brexit if we leave without a deal.","
+60,23/09/2019,"Government commits to funding healthcare for over 180,000 UK nationals living in the EU for 6 months following Brexit if we leave without a deal.","
     
           People already living in the EU who have their healthcare funded by the UK, including pensioners and students, will have their healthcare costs covered for 6 months if we leave without a deal.
 
@@ -4332,7 +4333,7 @@ Her Majesty’s Ambassador to the Czech Republic, Nick Archer, said:
 
 
 "
-"61",2023-03-13,"The Access to Justice Foundation has been awarded funding to administer the ‘Improving Outcomes Through Legal Support’ grant.","
+61,13/03/2023,The Access to Justice Foundation has been awarded funding to administer the ‘Improving Outcomes Through Legal Support’ grant.,"
     
           The grant will help thousands more people get access to early legal help after the government announced £12 million of new grant funding in November 2022.
 
@@ -4348,7 +4349,7 @@ The Access to Justice Foundation has now launched the application process to awa
 
 
 "
-"62",2022-04-28,"The Government has concluded that it would be wrong to impose new administrative requirements on businesses who may pass-on the associated costs to consumers.","
+62,28/04/2022,The Government has concluded that it would be wrong to impose new administrative requirements on businesses who may pass-on the associated costs to consumers.,"
     
           
 The remaining import controls on EU goods will no longer be introduced this year, the government has announced today.
@@ -4423,7 +4424,7 @@ Notes to editors:
 
 
 "
-"63",2021-09-30,"Vulnerable households across the country will be able to access a new £500m support fund to help them with essentials over the coming months as the country continues its recovery from the pandemic.","
+63,30/09/2021,Vulnerable households across the country will be able to access a new £500m support fund to help them with essentials over the coming months as the country continues its recovery from the pandemic.,"
     
           £500m support available to help those most in need as we enter the final stages of recovery
   Money available to councils in October 2021
@@ -4464,7 +4465,7 @@ And to further support families with children, the Government has doubled free c
 
 As the Barnett formula will apply in the usual way to additional funding in England, the devolved administrations will receive up to £79m of the £500m (£41m for the Scottish Government, £25m for the Welsh Government and £14m for the NI Executive). It will be for the devolved administrations to decide how to allocate this additional funding.
 "
-"64",2022-11-28,"Thousands more people will get access to early legal help over the next 2 years after the government announced £12 million of new grant funding today. (28 November 2022).","
+64,28/11/2022,Thousands more people will get access to early legal help over the next 2 years after the government announced £12 million of new grant funding today. (28 November 2022).,"
     
           
 
@@ -4515,7 +4516,7 @@ Cathy Ashley, Chief Executive of Family Rights Group, said:
   The Help Accessing Legal Support Grant is funding our new webchat service for families and is enabling us to provide more intensive support to callers to our advice line, allowing more children to live safely and thrive within their families and safely averting them entering a care system already in crisis.
 
 "
-"65",2022-11-09,"More than 1,000 customers will receive payments after the CMA found Barclays failed to send PPI information","
+65,09/11/2022,"More than 1,000 customers will receive payments after the CMA found Barclays failed to send PPI information","
     
           The CMA has written publicly to Barclays after the bank failed to send a reminder to customers of payment protection insurance (PPI) policies.
 
@@ -4560,7 +4561,7 @@ Notes to Editors
     For media enquiries, contact the CMA press office on 020 3738 6460 or press@cma.gov.uk
   
 "
-"66",2021-12-14,"The next review of State Pension age has been launched by the government today.","
+66,14/12/2021,The next review of State Pension age has been launched by the government today.,"
     
           The review will consider whether the rules around pensionable age are appropriate, based on the latest life expectancy data and other evidence.
 
@@ -4576,7 +4577,7 @@ examine the implications of the latest life expectancy data
   provide a balanced assessment of the costs of an ageing population and future State Pension expenditure
   consider labour market changes and people’s ability and opportunities to work over State Pension age
   and develop options for setting the legislative timetable for State Pension age that are transparent and fair"
-"67",2022-07-13,"Claims for Pension Credit more than doubled during the Department for Work and Pension’s recent Pension Credit Day of Action, new figures have revealed.","
+67,13/07/2022,"Claims for Pension Credit more than doubled during the Department for Work and Pension’s recent Pension Credit Day of Action, new figures have revealed.","
     
           Over 10,000 Pension Credit claims were made during the week of 13 June – an increase of 275% compared to that same week in 2021.
 
@@ -4614,7 +4615,7 @@ Even a small Pension Credit award can provide access to a wide range of other be
 
 Pension Credit can be claimed by phone and online, ensuring that older people can apply safely and easily, wherever they are. The online Pension Credit calculator is also on hand to help pensioners check if they’re likely to be eligible and get an estimate of what they may receive.
 "
-"68",2022-03-14,"Children of separated parents are set to benefit from changes to the Child Maintenance Service announced today (14 March 2022) as new powers are revealed.","
+68,14/03/2022,Children of separated parents are set to benefit from changes to the Child Maintenance Service announced today (14 March 2022) as new powers are revealed.,"
     
           The new powers being introduced will expand the list of companies and organisations required to provide information to the Child Maintenance Service (CMS) which will help the service trace the paying parent, calculate maintenance and enforce arrears more effectively.
 
@@ -4645,7 +4646,7 @@ Plans for future changes when the legislation timetable allows will:
 include unearned income in child maintenance calculations
   extinguish small volumes of very low value debt (£6.99 and under) where the maintenance calculation has ended but there remains an outstanding debt, and the value of the debt is substantially less than the cost of collecting it
   extinguish arrears where child maintenance has been deducted from a parent’s earnings and their employer has gone into administration, and the outstanding arrears can no longer be recovered."
-"69",2022-04-27,"The CMA’s Annual Concurrency Report shows how competition authorities have helped deliver benefits to households in 2021 to 2022 in the regulated sectors.","
+69,27/04/2022,The CMA’s Annual Concurrency Report shows how competition authorities have helped deliver benefits to households in 2021 to 2022 in the regulated sectors.,"
     
           Competition law in the UK is enforced by the Competition and Markets Authority (CMA), the nation’s primary competition authority, and, in certain sectors, by the relevant regulators.
 
@@ -4681,7 +4682,7 @@ Notes to editors
 The sector regulators involved in the concurrency arrangements alongside the CMA are: Civil Aviation Authority (CAA), Office of Communications (Ofcom), Gas and Electricity Markets Authority (Ofgem), Financial Conduct Authority (FCA), Payment Systems Regulator (PSR), NHS Improvement (NHSI), Office of Rail and Road (ORR), Water Services Regulation Authority (Ofwat) and Northern Ireland Authority for Utility Regulation (NIAUR).
   For media enquiries, contact the CMA press office on 020 3738 6460 or press@cma.gov.uk.
 "
-"70",2022-03-24,"A new poll of 2,000 UK adults has revealed that over half (54%) of late-night online shoppers said they had done so while drinking alcohol and more than 8 in 10 (86%) shopped while distracted watching TV, leaving them vulnerable to misleading sales tactics.","
+70,24/03/2022,"A new poll of 2,000 UK adults has revealed that over half (54%) of late-night online shoppers said they had done so while drinking alcohol and more than 8 in 10 (86%) shopped while distracted watching TV, leaving them vulnerable to misleading sales tactics.","
     
           1 in 2 shopping online at night drink and click
   CMA warns about sneaky sales tactics as cost of living rises
@@ -4733,7 +4734,7 @@ All figures, unless otherwise stated, are from Censuswide Plc.
   The total sample size was 2048 adults. The figures have been weighted to reflect the profile of the UK adult population.
   Censuswide plc make every effort to provide representative information.
 "
-"71",2022-07-22,"New prison wings designed to get offenders clean will receive funding thanks to the government’s 10-year strategy to tackle drug-fuelled crime.","
+71,22/07/2022,New prison wings designed to get offenders clean will receive funding thanks to the government’s 10-year strategy to tackle drug-fuelled crime.,"
     
           
 
@@ -4807,7 +4808,7 @@ Initiatives funded by the £120 million include:
     
   A 2017 study found a 19 percentage-point reduction in the two-year rate of reoffending between those offenders who successfully completed drug or alcohol treatment and those who dropped out.
 "
-"72",2021-02-10,"Housing Secretary unveils a 5-point  plan which will provide reassurance to homeowners and confidence to the housing market.","
+72,10/02/2021,Housing Secretary unveils a 5-point  plan which will provide reassurance to homeowners and confidence to the housing market.,"
     
           
 
@@ -4876,7 +4877,7 @@ The Grenfell tragedy laid bare failings in the building industry dating back 30 
 
 The measures build on steps already taken to support leaseholders, including £1.6 billion of funding to remediate unsafe cladding, the £30 million Waking Watch fund to help end unfair and excessive costs and new legislation in the Building Safety Bill which will ensure homes are made and kept safer in future.
 "
-"73",2020-07-18,"The government is bringing forward changes that will improve building and fire safety, so that people will be, and will feel, safer in their homes.","
+73,18/07/2020,"The government is bringing forward changes that will improve building and fire safety, so that people will be, and will feel, safer in their homes.","
     
           Background
 
@@ -4956,7 +4957,7 @@ The draft Bill will be published on Monday 20 July as the government is keen for
 
 
 "
-"74",2021-03-26,"The newly named Supporting Families programme to support some of the most vulnerable families in society.","
+74,26/03/2021,The newly named Supporting Families programme to support some of the most vulnerable families in society.,"
     
           
 
@@ -5004,7 +5005,7 @@ The government has today also published research on a £9.5 million Supporting Fa
 
 The programme, previously named the ‘Troubled Families programme,’ will now be known as ‘Supporting Families’, to better reflect the role that keyworkers play.
 "
-"75",2020-03-06,"Bereaved parents spared children’s burial and cremation costs.","
+75,06/03/2020,Bereaved parents spared children’s burial and cremation costs.,"
     
           
 
@@ -5068,7 +5069,7 @@ The CFF came into force on 23 July 2019.
   The scheme is not means-tested, and the residency or nationality of the deceased child, or of the person organising the burial or cremation, is not relevant in determining eligibility.
   Both the Welsh Government and the Scottish Government have established schemes, under devolved powers, to make financial support available to providers of burial and cremation for children.
 "
-"76",2021-06-15,"The Lord Chancellor shares his views on how tailored prisoner education can help us to build back a better and safer country for all.","
+76,15/06/2021,The Lord Chancellor shares his views on how tailored prisoner education can help us to build back a better and safer country for all.,"
     
           As Lord Chancellor and Secretary of State for Justice, I spend every day immersed in the inner workings of the criminal justice system. After almost 2 years in the job, there is one statistic that continues to spur me on to do better.
 
@@ -5106,7 +5107,7 @@ This was first published on Redbox in the Times.
 
 
 "
-"77",2019-09-08,"Plans to expand the team of cost-recovery experts will help recover millions of pounds in costs for treating overseas visitors in the NHS.","
+77,08/09/2019,Plans to expand the team of cost-recovery experts will help recover millions of pounds in costs for treating overseas visitors in the NHS.,"
     
           Health and Social Care Secretary Matt Hancock has announced plans to  expand the NHS’s existing team of cost-recovery experts, backed by £1 million.
 
@@ -5145,7 +5146,7 @@ Jason Dorsett, Chief Finance Officer, Oxford University Hospital Foundation Trus
 
 
 "
-"78",2020-01-13,"The government is collaborating with pharmaceutical company Novartis to launch a clinical trial for new cholesterol treatment.","
+78,13/01/2020,The government is collaborating with pharmaceutical company Novartis to launch a clinical trial for new cholesterol treatment.,"
     
           
     Collaboration to offer cutting-edge new cholesterol treatment to tens of thousands of patients at risk of heart disease in coming years
@@ -5242,7 +5243,7 @@ Inclisiran, potentially the first and only cholesterol-lowering therapy in the s
 
 
 "
-"79",2019-07-15,"Rehabilitation of offenders to be boosted by removing barriers to employment.","
+79,15/07/2019,Rehabilitation of offenders to be boosted by removing barriers to employment.,"
     
           
 
@@ -5291,7 +5292,7 @@ Detailed proposals on how we will amend the ‘rehabilitation periods’ for shorter
   Only individuals who have stopped offending will have their convictions spent.
   If an individual reoffends during their rehabilitation period, they will have to disclose both their original and subsequent offences to employers for the duration of whichever rehabilitation period is longer.
 "
-"80",2019-04-08,"Reforms coming into effect in April will support those who can work to get into employment, while ensuring there is a safety net in place for those who need it.","
+80,08/04/2019,"Reforms coming into effect in April will support those who can work to get into employment, while ensuring there is a safety net in place for those who need it.","
     
           These include more generous work allowances for disabled people and families with children and extra financial support in the workplace through the government’s Access to Work scheme.
 
@@ -5393,7 +5394,7 @@ Twitter
   LinkedIn
   YouTube
 "
-"81",2023-02-06,"£200 payments for off grid households start today, while businesses off the grid are expected to receive £150 payments by 10 March.","
+81,06/02/2023,"£200 payments for off grid households start today, while businesses off the grid are expected to receive £150 payments by 10 March.","
     
           
 
@@ -5461,7 +5462,7 @@ The AFP Alternative Fund application portal will open later in February. The app
 
 
 "
-"82",2022-09-02,"Waitrose has agreed to rewrite several property deals after it signed land agreements which blocked other supermarkets from opening nearby.","
+82,02/09/2022,Waitrose has agreed to rewrite several property deals after it signed land agreements which blocked other supermarkets from opening nearby.,"
     
           
 
@@ -5517,7 +5518,7 @@ Notes to editors
     For media enquiries, contact the CMA press office on 020 3738 6460 or press@cma.gov.uk.
   
 "
-"83",2022-06-16,"The Environment Agency has completed additional flood defence work in Burton-upon-Trent, Staffordshire, to alleviate issues around the A38 at Branston.","
+83,16/06/2022,"The Environment Agency has completed additional flood defence work in Burton-upon-Trent, Staffordshire, to alleviate issues around the A38 at Branston.","
     
           The work, which started last summer in 2021, reduces flood risk to some 397 properties, including 18 affected by the flood of February 2020.  The whole investment in Burton, including £2 million from the National Highways Designated Funds programme, has cost over £30 million, and reduces the risk of flooding to over 4,600 homes and 1,000 businesses.
 
@@ -5549,7 +5550,7 @@ Ian Doust, National Highways Programme Development Manager, said:
 
 
 "
-"84",2022-05-17,"The government’s goal to see one million more disabled people in work has been reached, the latest official figures show.","
+84,17/05/2022,"The government’s goal to see one million more disabled people in work has been reached, the latest official figures show.","
     
           Over one million more disabled people are in employment compared to five years ago according to the latest ONS (Office for National Statistics) data released today (Tuesday 17 May), confirming the government has achieved a key ambition in its efforts improve the lives of disabled people.
 
@@ -5579,7 +5580,7 @@ Over the next three years, the government will invest £1.3 billion in employment
 
 Support into employment will also be an important theme within the DWP’s Health and Disability White Paper, due to be published later this summer, and it will outline further detail about how the £1.3 billion investment will be spent.
 "
-"85",2020-05-19,"Criminals who commit alcohol-fuelled crime may be banned from drinking and made to wear ‘sobriety tags’ after new legislation comes into force today (19 May 2020).","
+85,19/05/2020,Criminals who commit alcohol-fuelled crime may be banned from drinking and made to wear ‘sobriety tags’ after new legislation comes into force today (19 May 2020).,"
     
           
 
@@ -5640,7 +5641,7 @@ The Ministry of Justice will start a national roll out of the Alcohol Abstinence
   The Crime Survey for England and Wales estimates that the proportion of violent incidents where the victim believed the offender(s) to be under the influence of alcohol, for year ending March 2018, was 39%.
   Public Health England estimate that the total social and economic cost of alcohol-related harm was £21.5 billion (2018).
 "
-"86",2022-05-20,"Biggest funding package in a generation to tackle youth offending and cut crime.","
+86,20/05/2022,Biggest funding package in a generation to tackle youth offending and cut crime.,"
     
           
 
@@ -5698,7 +5699,7 @@ Ministers will also set out plans in due course to improve how funding is target
 
 
 "
-"87",2021-12-10,"The people of Leicestershire are being invited to choose the name of its new jail in Glen Parva, Prisons Minister Victoria Atkins announced today (10 December 2021).","
+87,10/12/2021,"The people of Leicestershire are being invited to choose the name of its new jail in Glen Parva, Prisons Minister Victoria Atkins announced today (10 December 2021).","
     
           
 
@@ -5738,7 +5739,7 @@ Note to editors
 The scheme to name the new prison in Glen Parva is at no cost to the taxpayer.
   Those interested in taking part can send their entries to glenparvaenquiries@justice.gov.uk by Friday 21 January 2022.
 "
-"88",2020-12-14,"The Private International Law Bill (2020) received royal assent today (14 December 2020) allowing the UK to implement vital agreements which protect the country’s businesses and citizens across borders.","
+88,14/12/2020,The Private International Law Bill (2020) received royal assent today (14 December 2020) allowing the UK to implement vital agreements which protect the country’s businesses and citizens across borders.,"
     
           
 
@@ -5784,7 +5785,7 @@ The Private International Law Bill (2020) received Royal Assent today. It allows
     
   A public consultation on a 10-year strategy for Private International Law will be published shortly.
 "
-"89",2021-03-12,"The CMA has today launched a study of children’s social care provision to establish why a lack of availability and increasing costs could be leading to the needs of children in care not being met.","
+89,12/03/2021,The CMA has today launched a study of children’s social care provision to establish why a lack of availability and increasing costs could be leading to the needs of children in care not being met.,"
     
           
 
@@ -5862,7 +5863,7 @@ Notes for editors
     The children’s social care system is the subject of significant policy attention across the UK, including through the independent review of children’s social care in England, the implementation of the Promise review recommendations in Scotland and the Improving Outcomes for Children programme in Wales. The CMA’s study will take into account the policy context of each nation.
   
 "
-"90",2020-12-03,"An extra £68 million will help thousands more disabled people to access grants to improve their homes so they can live independently.","
+90,03/12/2020,An extra £68 million will help thousands more disabled people to access grants to improve their homes so they can live independently.,"
     
           
 
@@ -5983,7 +5984,7 @@ LondonSW1P 4DF
 
 
 "
-"91",2020-11-08,"Children and families will get extra support this winter, with councils given new funding to ensure vulnerable households do not go hungry or without essential items.","
+91,08/11/2020,"Children and families will get extra support this winter, with councils given new funding to ensure vulnerable households do not go hungry or without essential items.","
     
           £170m Covid Winter Grant Scheme to support children, families and the most vulnerable over winter
   Holiday Activities and Food programme to be expanded, covering Easter, Summer and Christmas in 2021
@@ -6036,7 +6037,7 @@ Protecting millions of jobs and livelihoods through the Coronavirus Job Retentio
   Increasing Local Housing Allowance rates for Universal Credit and housing benefit claimants, so it covers the lowest 30% of local rents – benefiting over 1 million households by on average £600 this year.
 Local authorities understand which groups need support, and are best placed to ensure appropriate holiday support is provided – which is why the £170m Covid Winter Grant Scheme will be distributed by them, rather than schools, who will continue providing meals disadvantaged children during term-time.
 "
-"92",2021-02-18,"Thousands of offenders will be diverted away from crime by the expansion of a catering training scheme in prisons across England and Wales.","
+92,18/02/2021,Thousands of offenders will be diverted away from crime by the expansion of a catering training scheme in prisons across England and Wales.,"
     
           
 
@@ -6084,7 +6085,7 @@ Justice Data Lab figures show the rate of reoffending for prisoners who particip
   For interviews with The Clink Charity please contact mediaenquiries@theclinkcharity.org
 
 "
-"93",2021-03-05,"Young adults supervised by the probation service will receive specialist drug and mental health support at a new £3 million centre to reduce reoffending.","
+93,05/03/2021,Young adults supervised by the probation service will receive specialist drug and mental health support at a new £3 million centre to reduce reoffending.,"
     
           
 
@@ -6133,7 +6134,7 @@ Taken together, this £220 million of funding highlights the Government’s commitm
 
 
 "
-"94",2021-01-23,"38 organisations will receive almost £2 million in government funding so their vital work steering women away from crime can continue.","
+94,23/01/2021,38 organisations will receive almost £2 million in government funding so their vital work steering women away from crime can continue.,"
     
           
 
@@ -6176,7 +6177,7 @@ The drive to cut offending by women also stands to benefit from the largest incr
 
 
 "
-"95",2020-02-28,"The CMA has found troubling evidence of potential mis-selling and unfair contract terms in the leasehold housing sector, and is set to launch enforcement action.","
+95,28/02/2020,"The CMA has found troubling evidence of potential mis-selling and unfair contract terms in the leasehold housing sector, and is set to launch enforcement action.","
     
           As part of a probe into the industry, the Competition and Markets Authority (CMA) is concerned that leasehold homeowners have been unfairly treated and prospective buyers misled by housing developers.
 
@@ -6214,7 +6215,7 @@ Notes to editors:
 
 For further information please contact the press office via press@cma.gov.uk or on 020 3738 6460.
 "
-"96",2019-07-18,"Justice Secretary David Gauke today called for an “evidence-led” approach to tackling reoffending in order to crack down on crime and reduce the number of victims.","
+96,18/07/2019,Justice Secretary David Gauke today called for an “evidence-led” approach to tackling reoffending in order to crack down on crime and reduce the number of victims.,"
     
           
 
@@ -6382,7 +6383,7 @@ Today the Ministry of Justice published a range of research publications and sta
     Process evaluation of the Global Positioning System (GPS) Electronic Monitoring Pilot: Quantitative findings
   
 "
-"97",2020-09-29,"£27 million has been announced for mental health charity Think Ahead to expand their mental health social work graduate programme.","
+97,29/09/2020,£27 million has been announced for mental health charity Think Ahead to expand their mental health social work graduate programme.,"
     
           Up to 480 mental health social workers will be recruited and trained – with applications open today (29 September)
   More than 10,000 people living with serious mental illness will receive support
@@ -6479,7 +6480,7 @@ Applicants must have (or be on course for) a 2:1 undergraduate degree in any sub
 
 
 "
-"98",2020-12-14,"Rough sleepers across England will receive extra support to help them recover from drug and alcohol misuse.","
+98,14/12/2020,Rough sleepers across England will receive extra support to help them recover from drug and alcohol misuse.,"
     
           
 
@@ -6539,7 +6540,7 @@ Steve Douglas CBE, Chief Executive of St Mungo’s said:
   This year we have seen what is possible when a coordinated multi-agency approach to providing support is taken. And we at St Mungo’s will continue to work with national and local government, and our local partners, to build on these successes and enable as many people as possible to get the help and support they need to recover from homelessness.
 
 "
-"99",2020-05-15,"A new £600 million Infection Control Fund has been introduced to tackle the spread of coronavirus (COVID-19) in care homes.","
+99,15/05/2020,A new £600 million Infection Control Fund has been introduced to tackle the spread of coronavirus (COVID-19) in care homes.,"
     
           £600 million Infection Control Fund to reduce transmission of coronavirus in care homes
   This forms part of wider support for care home residents and staff, including by limiting staff movement, protecting wages and giving access to NHS personal protective equipment (PPE) training
@@ -6642,7 +6643,7 @@ Further details of the Samaritans helpline are on its website.
 
 
 "
-"100",2020-02-28,"The UK has regained full competence to strike international agreements on Private International Law since leaving the EU.","
+100,28/02/2020,The UK has regained full competence to strike international agreements on Private International Law since leaving the EU.,"
     
           
 
@@ -6688,7 +6689,7 @@ Private International Law agreements cover aspects of civil, family and commerci
   
   The Bill was introduced in the House of Lords on Thursday.
 "
-"101",2023-01-21,"Thousands of troubled teens to benefit from cash boost to local sports groups.","
+101,21/01/2023,Thousands of troubled teens to benefit from cash boost to local sports groups.,"
     
           
 
@@ -6785,7 +6786,7 @@ ThruLife
   Alliance of Sport in Criminal Justice
   Sport for Development Coalition
 "
-"102",2023-02-28,"The CMA has launched a market study into housebuilding and a separate project considering consumer rights for those in rented homes.","
+102,28/02/2023,The CMA has launched a market study into housebuilding and a separate project considering consumer rights for those in rented homes.,"
     
           With widespread concerns about housing availability and costs, the Competition and Markets Authority (CMA) has launched a new phase of work in the housing sector. The CMA is launching a market study into housebuilding, and will start a separate consumer protection project related to rented accommodation.
 
@@ -6815,7 +6816,7 @@ housing quality: looking at how builders are delivering the right sorts of homes
   innovation: considering whether factors may be holding builders back from adopting new building techniques or moving towards more sustainable, net zero homes
 A market study allows the CMA to use compulsory information-gathering powers to probe the entire market. As well as helping develop a deeper understanding of how and when housebuilders decide to deliver new homes and the interaction of that with local authority housing targets, the study will consider the issues faced by smaller, regional firms.
 "
-"103",2023-02-03,"The CMA found that Portman Healthcare’s anticipated deal to buy Dentex Healthcare raised competition concerns which could harm treatment for patients living in the South West and North East","
+103,03/02/2023,The CMA found that Portman Healthcare’s anticipated deal to buy Dentex Healthcare raised competition concerns which could harm treatment for patients living in the South West and North East,"
     
           An initial investigation by the Competition and Markets Authority (CMA) has found that a merger between 2 dental providers would not harm the majority of patients in the United Kingdom, but action is needed to address specific competition concerns for those living in the South West and North East of England.
 
@@ -6855,7 +6856,7 @@ Notes to editors
     All enquiries from the general public should be directed to the CMA’s General Enquiries team on general.enquiries@cma.gov.uk or 020 3738 6000.
   
 "
-"104",2023-02-02,"All recommendations made by the CMA to tackle issues in the children’s social care market in England have been accepted by the Department for Education.","
+104,02/02/2023,All recommendations made by the CMA to tackle issues in the children’s social care market in England have been accepted by the Department for Education.,"
     
           
 
@@ -6899,7 +6900,7 @@ Analysis of prices and profits is from financial data obtained from the 15 large
   The largest proportion of children’s homes places in England and Wales are provided by the for-profit sector – around 78% in England and 77% in Wales. This compares to 35% in Scotland. Most fostering placements are provided by local authority foster carers – 64% in England, 69% in Scotland and 73% in Wales. However, a significant minority are provided by private providers (except in Scotland where for-profit provision is not permitted) and voluntary providers.
   Media queries should be directed to: press@cma.gov.uk or 020 3738 6460.
 "
-"105",2023-03-15,"Statement by Ambassador Barbara Woodward at the UN Security Council briefing on Yemen","
+105,15/03/2023,Statement by Ambassador Barbara Woodward at the UN Security Council briefing on Yemen,"
     
           
 Thank you, President.
@@ -6932,7 +6933,7 @@ Thank you.
 
 
 "
-"106",2021-09-07,"Following unprecedented fluctuations to earnings caused by the COVID-19 pandemic, the government has today announced legislation to set aside for one year the use of average earnings growth figures for State Pensions up-rating.","
+106,07/09/2021,"Following unprecedented fluctuations to earnings caused by the COVID-19 pandemic, the government has today announced legislation to set aside for one year the use of average earnings growth figures for State Pensions up-rating.","
     
           In taking this decision, the government has carefully considered the fairest approach for both pensioners and younger taxpayers.
 
@@ -6998,7 +6999,7 @@ Follow DWP on:
     YouTube
   
 "
-"107",2021-12-01,"Today, tens of thousands of low income households will get a cash boost as higher Universal Credit payments land in bank accounts for the first time.","
+107,01/12/2021,"Today, tens of thousands of low income households will get a cash boost as higher Universal Credit payments land in bank accounts for the first time.","
     
           As announced in the Autumn Budget, the taper rate – the amount that a person’s Universal Credit is reduced by as they earn more – has dropped from 63% to 55%. Simultaneously, work allowances, the amount eligible claimants can earn before their Universal Credit is reduced, have increased by £500 per year.
 
@@ -7041,7 +7042,7 @@ Meanwhile, a couple with two children, renting their home, where one partner wor
 
 Vulnerable households across the country are also able to access the £500 million Household Support Fund to help them with essentials over the coming months as the country continues its recovery from the pandemic. The devolved administrations will receive almost £80 million of the £500 million (£41 million for the Scottish Government, £25 million for the Welsh Government and £14 million for the NI Executive).
 "
-"108",2011-06-08,"How UK aid is helping to lower the price of HIV treatment","
+108,08/06/2011,How UK aid is helping to lower the price of HIV treatment,"
     
           
 A test of courage
@@ -7088,7 +7089,7 @@ We will continue to work with the Clinton Health Access Initiative to generate c
 
 
 "
-"109",2020-10-20,"Criminals in Wales who commit alcohol-fuelled crimes can be banned from drinking and ordered to wear a ‘sobriety tag’ by judges from today (Wednesday 21 October) and will be extended to England early next year.","
+109,20/10/2020,Criminals in Wales who commit alcohol-fuelled crimes can be banned from drinking and ordered to wear a ‘sobriety tag’ by judges from today (Wednesday 21 October) and will be extended to England early next year.,"
     
           
 
@@ -7133,7 +7134,7 @@ The Government’s plans to overhaul sentencing will see dangerous offenders spend
 
 
 "
-"110",2019-09-10,"Wages for UK workers have continued to grow, as new figures released today show wages  have been rising faster than inflation for a year and a half, growing by 1.9% in real terms on last year.","
+110,10/09/2019,"Wages for UK workers have continued to grow, as new figures released today show wages  have been rising faster than inflation for a year and a half, growing by 1.9% in real terms on last year.","
     
           The number of people in work is up 369,000 on last year. This means more workers across the UK are benefiting from greater financial security and increased spending power than a year ago.
 
@@ -7203,7 +7204,7 @@ Follow DWP on:
     YouTube
   
 "
-"111",2021-01-22,"A ground-breaking Local Partnership Agreement has been signed by the Department for Work and Pensions and Her Majesty’s Prison & Probation Service (HMPPS).","
+111,22/01/2021,A ground-breaking Local Partnership Agreement has been signed by the Department for Work and Pensions and Her Majesty’s Prison & Probation Service (HMPPS).,"
     
           The agreement aims to get the best possible outcome for offenders on leaving custody.
 
@@ -7251,7 +7252,7 @@ East Anglia District Manager Julia Nix said:
   Together with support from HMPPS we encourage, support and prepare prisoners for employment because we know that a job can help turn their lives around, lift them from poverty, and that motivates us every day.
 
 "
-"112",2021-01-18,"Secure video calls rolled out in all prisons in just over 6 months to maintain vital family contact.","
+112,18/01/2021,Secure video calls rolled out in all prisons in just over 6 months to maintain vital family contact.,"
     
           
 
@@ -7311,7 +7312,7 @@ Video calls are a complementary resource to help maintain family contact not a r
       Making more Personal Protective Equipment available to staff who come into close contact with offenders, so they can protect themselves and the offenders in their care.
     
 "
-"113",2020-07-18,"Next Steps Accommodation Programme launched today makes resources available to councils to help ensure 15,000 people continue to have a safe place to stay.","
+113,18/07/2020,"Next Steps Accommodation Programme launched today makes resources available to councils to help ensure 15,000 people continue to have a safe place to stay.","
     
           
 
@@ -7357,7 +7358,7 @@ Minister for Rough Sleeping and Housing, Luke Hall MP said:
   Their efforts must not be in vain and today’s release of funding will make a huge difference by preventing thousands from returning to the streets with further support to allow them to rebuild their lives with a roof above their heads.
 
 "
-"114",2010-11-25,"This project aimed to improve the well-being of the poor in informal urban settlements through cost-effective local water supply services.","
+114,25/11/2010,This project aimed to improve the well-being of the poor in informal urban settlements through cost-effective local water supply services.,"
     
           
 The pace of urbanisation is exceeding the ability of many water utilities to provide services for new customers, or even to maintain standards for existing customers. In many cities of Africa, Asia and South America, more than half the population of towns and cities pay high prices to obtain their water services from suppliers other than the official water supply utility.
@@ -7379,7 +7380,7 @@ Those currently benefiting are the people living in some informal low income are
 
 
 "
-"115",2020-01-05,"Up to £165 million new funding to help families get their lives back on track announced.","
+115,05/01/2020,Up to £165 million new funding to help families get their lives back on track announced.,"
     
           Families with deep rooted problems will receive much-needed support to get their lives back on track with up to £165 million of new funding, Communities Secretary Rt Hon Robert Jenrick MP announced today (5 January 2020).
 
@@ -7500,7 +7501,7 @@ LondonSW1P 4DF
 
 
 "
-"116",2016-12-01,"This project uses secure online video conferencing to enable HIV prevention support for marginalised communities in rural Hampshire.","
+116,01/12/2016,This project uses secure online video conferencing to enable HIV prevention support for marginalised communities in rural Hampshire.,"
     
           
 What is involved
@@ -7548,7 +7549,7 @@ Donna Bone, Chief Executive, Positive Action said:
 
 “People living with HIV in Hampshire will be able to receive information about medication, test results, safer sex and relationships support without needing to attend clinical appointments.”
 "
-"117",2020-02-27,"The number of nurses has gone up as the government works to increase nursing numbers in the NHS by 50,000 in the next 5 years.","
+117,27/02/2020,"The number of nurses has gone up as the government works to increase nursing numbers in the NHS by 50,000 in the next 5 years.","
     
           Since 2010, there have been increases of more than:
 
@@ -7575,7 +7576,7 @@ Health and Social Care Secretary Matt Hancock said:   
 
 
 "
-"118",2019-08-19,"The next round of applications for the Local Digital Fund is now open.","
+118,19/08/2019,The next round of applications for the Local Digital Fund is now open.,"
     
           Councils looking to improve public services through innovative uses of digital technology can apply for funding from today (19 August 2019), Local Government Minister Luke Hall MP has announced.
 
@@ -7605,7 +7606,7 @@ For the projects, lead councils across the country partner with at least 2 other
 
 The Fund is also being invested in digital skills and digital leadership training for council staff.
 "
-"119",2019-03-19,"Updated advice for UK travellers on the continuity of reciprocal healthcare arrangements in the event of a no-deal EU Exit.","
+119,19/03/2019,Updated advice for UK travellers on the continuity of reciprocal healthcare arrangements in the event of a no-deal EU Exit.,"
     
           Leaving the EU with a deal remains the government’s top priority and would give all UK nationals the stability and certainty to prepare for our new relationship after EU Exit. However, the government must plan for every possible outcome, including no deal.
 
@@ -7651,7 +7652,7 @@ If EU member states do not agree to extend the existing healthcare arrangements 
 
 In a no-deal scenario, UK nationals may no longer be able to use their EHICs when travelling to the EU.
 "
-"120",2019-04-04,"A ground-breaking ceremony at Nesscliff Training Camp, near Shrewsbury in Shropshire, has marked the beginning of construction for new on-site, state-of-the-art, kitchen and dining facilities for military personnel undertaking pre-deployment training across the estate.","
+120,04/04/2019,"A ground-breaking ceremony at Nesscliff Training Camp, near Shrewsbury in Shropshire, has marked the beginning of construction for new on-site, state-of-the-art, kitchen and dining facilities for military personnel undertaking pre-deployment training across the estate.","
     
           A £4 million investment will see the Defence Infrastructure Organisation (DIO), its industry partner Landmarc Support Services Limited and local building contractor Pave Aways Limited, deliver an enhanced facility capable of feeding 600 armed forces personnel each meal time and up to 200 personnel in the field. It will also include additional storage and welfare space and improve the current disabled facilities on the site.
 
@@ -7684,7 +7685,7 @@ Steven Owen, Managing Director of Pave Aways, said:
 
 
 "
-"121",2020-02-07,"Encouraging more children to walk to school.","
+121,07/02/2020,Encouraging more children to walk to school.,"
     
           
 
@@ -7732,7 +7733,7 @@ Key figures
 
 
 "
-"122",2022-07-14,"On Tuesday 12 July, senior Cabinet Ministers awarded young people and employers for their contribution to tackling high youth unemployment through the Kickstart Scheme, as the country recovered from the pandemic.","
+122,14/07/2022,"On Tuesday 12 July, senior Cabinet Ministers awarded young people and employers for their contribution to tackling high youth unemployment through the Kickstart Scheme, as the country recovered from the pandemic.","
     
           Launched in September 2020, the scheme secured over 163,000 jobs for young people nationwide as part of the government’s drive to help those aged 16-24 start their career and gain vital work experience.
 
@@ -7815,7 +7816,7 @@ Follow DWP on:
     YouTube
   
 "
-"123",2022-06-27,"Broadband and mobile firms commit to do more to help customers cope with global price rises
+123,27/06/2022,"Broadband and mobile firms commit to do more to help customers cope with global price rises
 ","
     
           
@@ -7948,7 +7949,7 @@ Meeting attendees:
 
 
 "
-"124",2022-09-01,"£24 million for services that work with women in justice system.","
+124,01/09/2022,£24 million for services that work with women in justice system.,"
     
           
 
@@ -8002,7 +8003,7 @@ Interview with an Ex-Prisoner, Adetola’s Story
 
 
 "
-"125",2021-04-08,"British National (Overseas) families coming to the UK on the Hong Kong BN(O) route will benefit from a dedicated package of support to help them settle successfully into life in the UK.","
+125,08/04/2021,British National (Overseas) families coming to the UK on the Hong Kong BN(O) route will benefit from a dedicated package of support to help them settle successfully into life in the UK.,"
     
           
 
@@ -8070,7 +8071,7 @@ The UK’s offer of bespoke immigration route BN(O) status holders follows the Chi
 
 Today’s package shows the UK will not look the other way on Hong Kong, and that this government will deliver on its historic responsibilities to the people of Hong Kong.
 "
-"126",2022-11-04,"Thousands of troubled youngsters will be put back on the right track thanks to a new £5 million fund for crime-cutting sports schemes, the Deputy Prime Minister has announced today (4 November 2022).","
+126,04/11/2022,"Thousands of troubled youngsters will be put back on the right track thanks to a new £5 million fund for crime-cutting sports schemes, the Deputy Prime Minister has announced today (4 November 2022).","
     
           
 
@@ -8119,7 +8120,7 @@ We’re Funding 200+ Youth Sports Schemes to Cut Crime
 
 
 "
-"127",2020-05-15,"Ministry of Justice owned Facilities Management company, Gov Facility Services Ltd (GFSL), has been giving offenders a chance to gain valuable work experience since it opened for business in early 2018.","
+127,15/05/2020,"Ministry of Justice owned Facilities Management company, Gov Facility Services Ltd (GFSL), has been giving offenders a chance to gain valuable work experience since it opened for business in early 2018.","
     
           Over that time GFSL has provided around 1.7million hours of meaningful work experience to offenders in 35 of the 50 prisons across the South of England where the company provides facilities management services.
 
@@ -8211,7 +8212,7 @@ MOJ Chief Estates Officer Andy Mills said:
 
 
 "
-"128",2022-04-04,"More than 97% of offenders on sobriety tags have stayed off alcohol, a year after they were introduced in England following a successful pilot in Wales.","
+128,04/04/2022,"More than 97% of offenders on sobriety tags have stayed off alcohol, a year after they were introduced in England following a successful pilot in Wales.","
     
           
 
@@ -8267,7 +8268,7 @@ What’s an Alcohol Tag?
 
 
 "
-"129",2022-08-25,"Prior to the merger, Veolia and Suez were 2 of the largest suppliers of waste management services in the UK.","
+129,25/08/2022,"Prior to the merger, Veolia and Suez were 2 of the largest suppliers of waste management services in the UK.","
     
           The CMA has today required Veolia to sell 3 businesses after an in-depth merger investigation concluded the merger gives rise to competition concerns in a number of markets.
 
@@ -8340,7 +8341,7 @@ Notes to editors:
     Provision of mobile water services to industrial customers.
   
 "
-"130",2020-12-17,"Fund announced to help end the scandal of excessive waking watch costs, as part of a further move to support thousands of residents in high-rise buildings.","
+130,17/12/2020,"Fund announced to help end the scandal of excessive waking watch costs, as part of a further move to support thousands of residents in high-rise buildings.","
     
           
 
@@ -8401,7 +8402,7 @@ These measures are part of the government’s commitment to improve the safety of 
 
 The government is clear the building industry must contribute towards the costs of making these homes safe once more, to set right decades of unsafe practices.  Work continues at pace to develop further financial solutions to protect leaseholders with details to be announced in the new year.
 "
-"131",2020-07-16,"Victims of terror atrocities at home and overseas are to benefit from a new dedicated compensation scheme under government plans to boost the support offered to people injured by violent crime.","
+131,16/07/2020,Victims of terror atrocities at home and overseas are to benefit from a new dedicated compensation scheme under government plans to boost the support offered to people injured by violent crime.,"
     
           
 
@@ -8480,7 +8481,7 @@ The Criminal Injuries Compensation Scheme (the Scheme) is a statutory scheme tha
   The Home Secretary made an announcement on the 26 March regarding a competed grant, available to organisations who want to provide support to victims of terrorism. Organisations were able to bid for up to £500,000, to provide advice and support to individuals and their families affected by terrorist attacks. The outcome will be announced shortly.
   The government has committed to an internal review of the wider support package available to victims of terrorism. The review is currently being scoped and we will take forward its recommendations in due course.
 "
-"132",2021-08-11,"Sajid Javid wrote to the Competition and Markets Authority asking the CMA to look into issues in connection with PCR travel tests.","
+132,11/08/2021,Sajid Javid wrote to the Competition and Markets Authority asking the CMA to look into issues in connection with PCR travel tests.,"
     
         
       
@@ -8494,7 +8495,7 @@ The Criminal Injuries Compensation Scheme (the Scheme) is a statutory scheme tha
 
   
 "
-"133",2020-05-26,"New fund will meet the cost for unsafe non-ACM cladding on residential buildings that are 18 metres and over and do not comply with building regulations.","
+133,26/05/2020,New fund will meet the cost for unsafe non-ACM cladding on residential buildings that are 18 metres and over and do not comply with building regulations.,"
     
           
 
@@ -8541,7 +8542,7 @@ Building Safety Minister Lord Greenhalgh said:
 
 Our Fire Safety Bill, which was introduced to Parliament last month, will empower fire and rescue services to take enforcement action and hold building owners to account if they do not comply with law.
 "
-"134",2020-03-19,"The funding will help patients who no longer need urgent hospital treatment to return home, making at least 15,000 beds available during the coronavirus outbreak.","
+134,19/03/2020,"The funding will help patients who no longer need urgent hospital treatment to return home, making at least 15,000 beds available during the coronavirus outbreak.","
     
           The funding comes from the £5 billion COVID-19 fund announced by the Chancellor in last week’s budget. 
 
@@ -8585,7 +8586,7 @@ Local Government Secretary, Robert Jenrick said:
 
 
 "
-"135",2020-06-17,"A pioneering scheme to provide new antibiotics to NHS patients by offering to pay pharmaceutical companies upfront for their work will start this week.","
+135,17/06/2020,A pioneering scheme to provide new antibiotics to NHS patients by offering to pay pharmaceutical companies upfront for their work will start this week.,"
     
           Government offers contracts to develop new antibiotics to treat deadliest diseases
   NHS patients could benefit from new antibiotic treatments as early as 2022
@@ -8657,7 +8658,7 @@ The need to address the urgent issue of bringing new antimicrobials to market is
   Products will be selected by the end of this year, and these selected products will progress to the HTA stage in 2021 to estimate the value of each product to the NHS. Contracts for the 2 antibiotic products are due to start in April 2022.
   The scope of the current procurement is the NHS in England. The expectation is that, if the project is successful, future rollout of these purchasing arrangements could be UK-wide.
 "
-"136",2019-10-07,"Vulnerable people across England received almost 13 million extra hours of home visits from social care workers last year, new statistics show.","
+136,07/10/2019,"Vulnerable people across England received almost 13 million extra hours of home visits from social care workers last year, new statistics show.","
     
           Vulnerable people across England received almost 13 million extra hours of home visits from social care workers last year as part of a £674 million government funding programme, new statistics show.
 
@@ -8700,7 +8701,7 @@ As announced at the Spending Round, next year local government will have access 
 
 This government is also consulting on a 2% precept which would give councils access to a further £500 million for adult social care next year.
 "
-"137",2019-11-01,"Funding will be available to partner organisations, including charities, from April 2020 to help vulnerable people claim Universal Credit.","
+137,01/11/2019,"Funding will be available to partner organisations, including charities, from April 2020 to help vulnerable people claim Universal Credit.","
     
           Secretary of State Therese Coffey has today (1 November 2019) announced a £10 million Universal Credit Transition Fund for outreach programmes to help vulnerable people make Universal Credit claims.
 
@@ -8774,7 +8775,7 @@ Follow DWP on:
 *[SDP]: severe disability payments
   
 "
-"138",2020-06-11,"A consultation event is being held via zoom for the local community about plans to protect properties in Skeldergate from flooding","
+138,11/06/2020,A consultation event is being held via zoom for the local community about plans to protect properties in Skeldergate from flooding,"
     
           People living in the Skeldergate area of York are being invited to take part in a virtual consultation event next week to find out more about plans to better protect the area from flooding.
 
@@ -8820,7 +8821,7 @@ Or follow EnvAgencyYNE on Twitter, York Flood Alleviation Scheme on Facebook or 
 
 
 "
-"139",2020-01-13,"Around 900,000 people across the UK could see their Housing Benefit payments rise from April.","
+139,13/01/2020,"Around 900,000 people across the UK could see their Housing Benefit payments rise from April.","
     
           The freeze on Local Housing Allowance rates that has been in place since 2016 has today (13 January 2020) been lifted by the Minister for Welfare Delivery, meaning that rates will rise by inflation from April.
 
@@ -8894,7 +8895,7 @@ Follow DWP on:
     YouTube
   
 "
-"140",2019-03-12,"A radical reshaping of financial advice services used by pension schemes for long-term investment strategies will benefit millions of savers and boost the nation’s £1.6 trillion retirement assets, under plans unveiled by the government today (12 March).","
+140,12/03/2019,"A radical reshaping of financial advice services used by pension schemes for long-term investment strategies will benefit millions of savers and boost the nation’s £1.6 trillion retirement assets, under plans unveiled by the government today (12 March).","
     
           Opening up the market for financial advice services used by pension schemes will help trustees get better value for money, boost members’ retirement funds and reduce employers’ shortfalls, according to ministers.
 
@@ -8962,7 +8963,7 @@ Twitter
   LinkedIn
   YouTube
 "
-"141",2020-02-07,"Engaging employees and supporting employers to increase walking rates.","
+141,07/02/2020,Engaging employees and supporting employers to increase walking rates.,"
     
           
 
@@ -9012,7 +9013,7 @@ the interventions delivered have reached an average of 1,300 employees per year
 
 
 "
-"142",2023-02-10,"Thousands of prisoners are getting clean thanks to a doubling of drug-free wings in jails as the government’s war on addiction steps up a gear.","
+142,10/02/2023,Thousands of prisoners are getting clean thanks to a doubling of drug-free wings in jails as the government’s war on addiction steps up a gear.,"
     
           
 
@@ -9047,7 +9048,7 @@ In exchange, prisoners who are making progress towards getting clean receive ext
 
 
 "
-"143",2023-02-09,"New materials published by the CMA remind employers to brush up on competition law and avoid illegal collusion","
+143,09/02/2023,New materials published by the CMA remind employers to brush up on competition law and avoid illegal collusion,"
     
           The CMA has published new easy-to-read materials, which seek to boost business compliance and remind employers of their legal obligations to avoid collusion when it comes to employee pay, working conditions and the hiring of staff.
 
@@ -9085,7 +9086,7 @@ Notes to editors
     All enquiries from journalists should be directed to the CMA press office by email on press@cma.gov.uk or by phone on 020 3738 6460.
   
 "
-"144",2022-11-08,"The purchase of student accommodation provider Student Roost by GIC and Greystar could lead to higher rent and lower quality housing for students in Birmingham.","
+144,08/11/2022,The purchase of student accommodation provider Student Roost by GIC and Greystar could lead to higher rent and lower quality housing for students in Birmingham.,"
     
           The Competition and Markets Authority’s (CMA) phase 1 assessment looked at how the proposed deal could impact students and universities across the UK, focusing on cities where GIC, Greystar and Student Roost have a significant combined presence.
 
@@ -9113,7 +9114,7 @@ A detailed summary of the CMA’s decision is available on the case page. The full
   All enquiries from journalists should be directed to the CMA press office by email on press@cma.gov.uk or by phone on 020 3738 6460.
   All enquiries from the general public should be directed to the CMA’s General Enquiries team on general.enquiries@cma.gov.uk or 020 3738 6000.
 "
-"145",2021-10-27,"Land Trust charity benefits by £30,000 to improve environment.","
+145,27/10/2021,"Land Trust charity benefits by £30,000 to improve environment.","
     
           Inspectors found excessive amounts of sludge had been spread without notification
   Two other companies issued with Variable Monetary Penalties
@@ -9209,7 +9210,7 @@ The money is transferred to Her Majesty’s Treasury – the Environment Agency does
 
 
 "
-"146",2017-08-30,"The CCS G-Cloud framework helps save DWP an estimated £20 million per year.","
+146,30/08/2017,The CCS G-Cloud framework helps save DWP an estimated £20 million per year.,"
     
           
 The Department for Work and Pensions (DWP) introduced the ‘Tell Us Once’ system back in 2011 to make it easier for people to inform the government about a change in their personal circumstances.
@@ -9274,7 +9275,7 @@ To find out more about the G-Cloud agreement and how you can make significant sa
 
 
 "
-"147",2022-04-07,"The CMA has appointed Sorcha O’Carroll as its new Senior Director of Mergers.","
+147,07/04/2022,The CMA has appointed Sorcha O’Carroll as its new Senior Director of Mergers.,"
     
           Sorcha has worked as a Director of Mergers at the Competition and Markets Authority (CMA) since 2019 and replaces Joel Bamford who left in February. Her appointment follows an open recruitment process that attracted applications from a strong field of candidates.
 
@@ -9306,7 +9307,7 @@ This appointment was managed by a Civil Service Commissioner to ensure a fair, m
   The role was advertised publicly with applicants being asked to submit an application form and cover letter detailing their suitability for the role, as measured against a published role profile with a set of required skills and experience.
   For media queries, please contact the press office via press@cma.gov.uk or on 020 3738 6460.
 "
-"148",2022-01-26,"The CMA has secured improvements for Xbox online players, following concerns about Microsoft’s use of auto-renewing subscriptions for online gaming services.","
+148,26/01/2022,"The CMA has secured improvements for Xbox online players, following concerns about Microsoft’s use of auto-renewing subscriptions for online gaming services.","
     
           The changes relate to Microsoft’s practices in relation to the automatic renewal of contracts for online gaming services. Microsoft’s Xbox Live Gold and Game Pass products allow people to access a library of games and play together online. They are offered as memberships which are often entered into on an auto-renewal basis. This means that membership is automatically rolled over at the end of each contract period and the customer charged unless they actively take steps to stop the subscription.
 
@@ -9346,7 +9347,7 @@ For media enquiries, contact the CMA press office on 020 3738 6460 or press@cma.
   An undertaking is a voluntary agreement a firm makes to address an enforcement authority’s concerns and resolve an investigation without the need for court action.
   The key pieces of consumer protection legislation relevant to the CMA’s investigation are: the Consumer Protection from Unfair Trading Regulations 2008 (CPRs); Part 2 of the Consumer Rights Act 2015 (CRA); and the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (CCRs). The CPRs contain a general prohibition against unfair commercial practices and specific prohibitions against misleading actions, misleading omissions and aggressive commercial practices. Part 2 of the CRA aims to protect consumers against unfair contract terms and notices, and requires contract terms to be fair and transparent. The CCRs regulate the information that should be provided to consumers before they make a purchase, cancellation rights for certain contracts and the use of pre-ticked boxes for additional payments.
 "
-"149",2011-07-19,"Solar powered technology funded by UK aid brings light to rural Pakistan","
+149,19/07/2011,Solar powered technology funded by UK aid brings light to rural Pakistan,"
     
           
 A bright idea
@@ -9373,7 +9374,7 @@ Another benefit to the solar technology is recharging mobile phones, which are v
 
 
 "
-"150",2021-06-03,"Thousands of vulnerable people, including care leavers, will get more cash to pay their rent, thanks to changes to housing benefits.","
+150,03/06/2021,"Thousands of vulnerable people, including care leavers, will get more cash to pay their rent, thanks to changes to housing benefits.","
     
           These changes are coming into force from Monday 31 May 2021 – two years earlier than scheduled.
 
@@ -9400,7 +9401,7 @@ Minister for Welfare Delivery Will Quince said:
   We know that having a safe, secure home is vital to getting on your feet and often into work. By bringing these changes in early, we’re able to help more people right now, as we all look to recover from the pandemic.
 
 "
-"151",2020-07-18,"The government is set to publish its landmark Bill to deliver the biggest changes to building safety for nearly 40 years and make residents safer in their homes.","
+151,18/07/2020,The government is set to publish its landmark Bill to deliver the biggest changes to building safety for nearly 40 years and make residents safer in their homes.,"
     
           
 
@@ -9463,7 +9464,7 @@ The government is also announcing that full applications for the £1 billion Buil
 
 To also ensure that building owners are clear on which steps they need to take to ensure the building is safe, we will also publish a new Manual to the Building Regulations which contains all Approved Documents in one place.
 "
-"152",2021-05-21,"Charities and companies which help rehabilitate offenders have been awarded around £200 million of Government funding to help cut crime in the new probation system.","
+152,21/05/2021,Charities and companies which help rehabilitate offenders have been awarded around £200 million of Government funding to help cut crime in the new probation system.,"
     
           
 
@@ -9687,7 +9688,7 @@ Greater Manchester
 
 Greater Manchester Combined Authority – For the first time, the Probation Service is jointly commissioning the full range of rehabilitative services in Greater Manchester with the region’s Combined Authority from July 2021.
 "
-"153",2020-12-03,"The Environment Agency’s modern and free Flood Warning Service has proved so effective that sirens in Grimsby and Cleethorpes are to be decommissioned.","
+153,03/12/2020,The Environment Agency’s modern and free Flood Warning Service has proved so effective that sirens in Grimsby and Cleethorpes are to be decommissioned.,"
     
           More than 80% of the 33,000 properties at risk of flooding in the area now receive advanced warnings through the direct-messaging service, making the old sirens redundant.
 
@@ -9759,7 +9760,7 @@ The Flood Warning Service currently reaches 83% of at-risk properties in the are
   The best way for people to protect themselves from flooding is to know what to do in advance – they can download and save a simple Prepare, Act, Survive plan so they know what to do when there’s a flood warning in their area.
   The National Flood and Coastal Erosion Risk Management Strategy was adopted in Autumn 2020 and sets the blueprint for how the Environment Agency and other organisations will manage flood and coastal change from now until 2100.
 "
-"154",2020-12-10,"New scheme to help adults across England facing multiple disadvantages like homelessness and mental health issues.","
+154,10/12/2020,New scheme to help adults across England facing multiple disadvantages like homelessness and mental health issues.,"
     
           
 
@@ -9793,7 +9794,7 @@ for individuals, to stabilise and then improve the life situation of adults who 
   for the local system, to test a different approach to funding, accountability and engagement between local commissioners and services, and central government and local areas
 The programme will run alongside evaluation, applying learning from local areas to national policymaking, aiming to deliver better outcomes with taxpayers’ money.
 "
-"155",2021-05-12,"Renters will continue to be supported as national COVID-19 restrictions ease.","
+155,12/05/2021,Renters will continue to be supported as national COVID-19 restrictions ease.,"
     
           
 
@@ -9835,7 +9836,7 @@ This week the government announced that a white paper will be published in the a
 
 This includes proposals for the abolition of Section 21 ‘no fault’ evictions to give tenants greater security and a new ‘lifetime deposit’ to ease the burden when moving house.
 "
-"156",2013-11-12,"An environmentally responsible CIC helping vulnerable people to escape fuel poverty and supporting community regeneration through training and job creation.","
+156,12/11/2013,An environmentally responsible CIC helping vulnerable people to escape fuel poverty and supporting community regeneration through training and job creation.,"
     
           
 When Warm Wales CEO Phil Roberts talks about the work his Community Interest Company does, something most of us take for granted – a heated home – has a whole new level of meaning. “It’s hard to believe but we’ve found children performing badly at school because they’re doing their homework in the living room in competition with the television,” he says, “because that’s the only warm room in the house.” 
@@ -9863,7 +9864,7 @@ Name
 
 
 "
-"157",2019-11-01,"Funding will be available to partner organisations, including charities, from April 2020 to help vulnerable people claim Universal Credit.","
+157,01/11/2019,"Funding will be available to partner organisations, including charities, from April 2020 to help vulnerable people claim Universal Credit.","
     
           Secretary of State Therese Coffey has today (1 November 2019) announced a £10 million Universal Credit Transition Fund for outreach programmes to help vulnerable people make Universal Credit claims.
 
@@ -9937,7 +9938,7 @@ Follow DWP on:
 *[SDP]: severe disability payments
   
 "
-"158",2020-08-20,"From today (20 August), local land charges search results will be easier to read as they will no longer reveal adjoining registration details.","
+158,20/08/2020,"From today (20 August), local land charges search results will be easier to read as they will no longer reveal adjoining registration details.","
     
           The enhancement to our Local Land Charges (LLC) service is part of a series of changes we are making to improve the customer experience.
 
@@ -9965,7 +9966,7 @@ Read more about our Local Land Charges Programme. For any enquiries, please cont
 
 
 "
-"159",2019-10-22,"A new report published today by the Social Security Advisory Committee highlights steps needed to improve the welfare of separated parents and their children.","
+159,22/10/2019,A new report published today by the Social Security Advisory Committee highlights steps needed to improve the welfare of separated parents and their children.,"
     
           A report published today by the Social Security Advisory Committee (SSAC) calls on the government to do more to ensure that after parents separate, the social security and child maintenance systems supports the welfare of both parents and their children.
 
@@ -10006,7 +10007,7 @@ The committee recommends that:
   
 We would also encourage DWP to consider ways to improve the child maintenance formula. For example, review the earnings thresholds, which have not been updated since 1998, to ensure they factor in the well-being and living standards of both parents and their children.
 "
-"160",2020-03-24,"The CMA has completed a research project to examine competition and regulation in the Scottish legal services sector.","
+160,24/03/2020,The CMA has completed a research project to examine competition and regulation in the Scottish legal services sector.,"
     
           The Competition and Markets Authority (CMA) is recommending a series of measures to improve the information made available to people to make it easier for them to shop around when arranging their house purchase or dealing with a divorce. The CMA is also recommending a series of regulatory reforms, including that an independent body regulates legal services in Scotland.
 
@@ -10035,7 +10036,7 @@ Andrea Coscelli, the CMA’s CEO said:
   You might not need a lawyer very often but when you do it will often be at a crucial point in your life, so addressing regulatory and competition shortcomings will make a real difference.
 
 "
-"161",2022-09-08,"The CMA’s initial investigation into Morrisons’ completed purchase of McColl’s shops has found competition concerns in 35 local areas where the 2 brands compete.","
+161,08/09/2022,The CMA’s initial investigation into Morrisons’ completed purchase of McColl’s shops has found competition concerns in 35 local areas where the 2 brands compete.,"
     
           However, overall, the deal would not harm the vast majority of shoppers or other businesses.
 
@@ -10068,7 +10069,7 @@ The CMA’s competition concerns relate to 35 local areas
   All enquiries from journalists should be directed to the CMA press office by email on press@cma.gov.uk or by phone on 020 3738 6460
   All enquiries from the general public should be directed to the CMA’s General Enquiries team on general.enquiries@cma.gov.uk or 020 3738 6000
 "
-"162",2022-11-08,"The purchase of student accommodation provider Student Roost by GIC and Greystar could lead to higher rent and lower quality housing for students in Birmingham.","
+162,08/11/2022,The purchase of student accommodation provider Student Roost by GIC and Greystar could lead to higher rent and lower quality housing for students in Birmingham.,"
     
           The Competition and Markets Authority’s (CMA) phase 1 assessment looked at how the proposed deal could impact students and universities across the UK, focusing on cities where GIC, Greystar and Student Roost have a significant combined presence.
 
@@ -10096,7 +10097,7 @@ A detailed summary of the CMA’s decision is available on the case page. The full
   All enquiries from journalists should be directed to the CMA press office by email on press@cma.gov.uk or by phone on 020 3738 6460.
   All enquiries from the general public should be directed to the CMA’s General Enquiries team on general.enquiries@cma.gov.uk or 020 3738 6000.
 "
-"163",2022-05-25,"More than 1,000 Ukrainian pensioners who recently arrived in Britain after fleeing the Russian invasion are already receiving financial support through Pension Credit, new figures show.","
+163,25/05/2022,"More than 1,000 Ukrainian pensioners who recently arrived in Britain after fleeing the Russian invasion are already receiving financial support through Pension Credit, new figures show.","
     
           The figures follow emergency regulations laid by the Department for Work and Pensions (DWP) in March 2022 which enabled Ukrainians to immediately access benefits and other support upon their arrival.
 
@@ -10126,7 +10127,7 @@ DWP staff are also delivering additional face-to-face assistance to those who ne
 
 Immediate access to Pension Credit and other means-tested benefits is just one of the ways the UK is continuing to stand shoulder-to-shoulder with the Ukrainian people and those forced to flee the country following Russia’s barbaric invasion.
 "
-"164",2022-07-09,"Parents who refuse to pay child maintenance could face curfews, as Ministers plan new powers for the Child Maintenance Service.","
+164,09/07/2022,"Parents who refuse to pay child maintenance could face curfews, as Ministers plan new powers for the Child Maintenance Service.","
     
           The change is being considered as part of fresh proposals that will get more of the money that is owed to the children of separated parents.
 
@@ -10152,7 +10153,7 @@ This builds on new powers introduced earlier this year to digitise all communica
 
 The Child Maintenance consultation is published on Gov UK and closes on 12 August 2022.
 "
-"165",2022-12-21,"The anticipated joint venture between ForFarmers and Boparan could lead to farmers paying higher prices to feed their poultry, the CMA has found.","
+165,21/12/2022,"The anticipated joint venture between ForFarmers and Boparan could lead to farmers paying higher prices to feed their poultry, the CMA has found.","
     
           ForFarmers and Boparan (through 2Agriculture) both manufacture and supply chicken and other types of poultry feed in the UK. ForFarmers and Boparan are planning to combine their animal feed milling operations in a joint venture. Between them, the firms operate 19 mills across the UK.
 
@@ -10181,7 +10182,7 @@ ForFarmers is a European manufacturer and supplier of animal feed, based in the 
   All media enquiries should be directed to the CMA press office by email on press@cma.gov.uk, or by phone on 020 3738 6460.
   All enquiries from the general public should be directed to the CMA’s General Enquiries team on general.enquiries@cma.gov.uk or 020 3738 6000.
 "
-"166",2022-05-24,"Secretary of State for Work and Pensions, Thérèse Coffey, joined G7 employment ministers in Wolfsburg as part of the German presidency of the G7.","
+166,24/05/2022,"Secretary of State for Work and Pensions, Thérèse Coffey, joined G7 employment ministers in Wolfsburg as part of the German presidency of the G7.","
     
           The meeting, which took place on Tuesday 24 May 2022, sought to build on the UK G7 agenda from 2021, which focussed on building back better, greener and more inclusively.
 
@@ -10280,7 +10281,7 @@ Follow DWP on:
     YouTube
   
 "
-"167",2022-08-09,"Prisoners are to be upskilled in cutting-edge farming techniques as the government continues to get offenders into work and cut crime.","
+167,09/08/2022,Prisoners are to be upskilled in cutting-edge farming techniques as the government continues to get offenders into work and cut crime.,"
     
           The scheme, being run at HMP Hewell in Worcestershire, is part of a landmark trial between the prison and farming technology company, LettUsGrow, that will see prisoners grow leafy greens, salad and herbs in high-tech ‘vertical’ farms.
 
@@ -10319,7 +10320,7 @@ The latest statistics from the Ministry of Justice show that the proportion of p
   Learn more about LettUsGrow here
 
 "
-"168",2022-05-30,"The CMA has found that Cérélia’s purchase of the Jus-Rol business could lead to higher prices and lower quality products for shoppers in the UK.","
+168,30/05/2022,The CMA has found that Cérélia’s purchase of the Jus-Rol business could lead to higher prices and lower quality products for shoppers in the UK.,"
     
           Cérélia is the largest manufacturer of bake-at-home dough products in the UK, producing private label (own brand) products on behalf of some of the largest grocery retailers in the UK.  Jus-Rol is the best-selling brand in the bake-at-home dough category and faces few branded rivals.
 
@@ -10348,7 +10349,7 @@ All media enquiries should be directed to the CMA press office by email on press
   The CMA believes that the merger gives rise to a realistic prospect of a substantial lessening of competition as a result of horizontal unilateral effects in the wholesale supply of bake-at-home dough products to grocery retailers in the UK.
   Under the Act the CMA has a duty to make a reference to Phase 2 if the CMA believes that it is or may be the case that a relevant merger situation has been created, or arrangements are in progress or contemplation which, if carried into effect, will result in the creation of a relevant merger situation; and the creation of that situation has resulted, or may be expected to result, in a substantial lessening of competition within any market or markets in the United Kingdom for goods or services.
 "
-"169",2021-07-30,"Natural England has launched a new scheme in Yorkshire to help conserve local populations of great crested newts while promoting sustainable development","
+169,30/07/2021,Natural England has launched a new scheme in Yorkshire to help conserve local populations of great crested newts while promoting sustainable development,"
     
           The scheme helps developers avoid costly delays and uses conservation payments to create new habitats for the protected species
 This week an innovative new scheme to protect newts and promote sustainable development has been rolled out across Yorkshire.
@@ -10391,7 +10392,7 @@ Yorkshire is the latest area to launch a district level licensing scheme. This i
   As part of the District Level Licensing project, Natural England has completed the largest ever survey of its type for great crested newts across England, funded by the Ministry of Housing, Communities and Local Government. The data is open and has been published to ArcGIS Online and is available at Data.gov.uk.
   Individual site-by-site mitigation licences are still available; since 17 February 2020, there is now a charge for these licences. In areas where there is a District Level Licensing scheme, joining a scheme will be the quickest option to enable development that affects great crested newts.
 "
-"170",2021-06-03,"More than 1,000 new trainee probation officers have been recruited to bolster the vital work the Probation Service does to cut crime and protect the public, meeting a government target set last July.","
+170,03/06/2021,"More than 1,000 new trainee probation officers have been recruited to bolster the vital work the Probation Service does to cut crime and protect the public, meeting a government target set last July.","
     
           
 
@@ -10428,7 +10429,7 @@ If you are interested in finding out more about being a Probation Officer visit 
 
 
 "
-"171",2020-08-23,"The Home of 2030 competition  encourages the design of environmentally friendly homes that support people in leading independent, fulfilling lives as our society ages. ","
+171,23/08/2020,"The Home of 2030 competition  encourages the design of environmentally friendly homes that support people in leading independent, fulfilling lives as our society ages. ","
     
           
 
@@ -10507,7 +10508,7 @@ Last year the United Kingdom became the first major economy in the world to sign
 
 As part of the government’s modern Industrial Strategy, the government is committed to ensuring that people can enjoy at least 5 extra years of healthy independent living by 2035. More than 10 million people in the UK today can expect to see their 100th birthday, compared to 15,000 current centenarians.
 "
-"172",2022-02-24,"This letter details the material which must be provided to households about the council tax rebate, including an information pamphlet.","
+172,24/02/2022,"This letter details the material which must be provided to households about the council tax rebate, including an information pamphlet.","
     
         
       
@@ -10532,7 +10533,7 @@ As part of the government’s modern Industrial Strategy, the government is commit
 
   
 "
-"173",2022-09-07,"The regulator has written to social housing providers regarding the government proposal to limit rent increases.","
+173,07/09/2022,The regulator has written to social housing providers regarding the government proposal to limit rent increases.,"
     
         
       
@@ -10557,7 +10558,7 @@ As part of the government’s modern Industrial Strategy, the government is commit
 
   
 "
-"174",2017-01-26,"Operational Take up of a Satellite Automatic Identification System (SAT-AIS) for small vessels in South Africa  ","
+174,26/01/2017,Operational Take up of a Satellite Automatic Identification System (SAT-AIS) for small vessels in South Africa  ,"
     
           
 Project Title
@@ -10589,7 +10590,7 @@ Save Lives – if a boat’s last location is known, or the Identifier’s SOS functio
 
 
 "
-"175",2019-07-01,"High Streets Minister Jake Berry announces 4 successful applicants to the Business Improvement Districts (BIDs) Loan Fund.","
+175,01/07/2019,High Streets Minister Jake Berry announces 4 successful applicants to the Business Improvement Districts (BIDs) Loan Fund.,"
     
           Four local communities are to receive a funding boost of a share of over £100,000 to help make their areas more attractive for business, High Streets Minister Jake Berry MP has today (1 July 2019) confirmed.
 
@@ -10621,7 +10622,7 @@ The government is fully committed to supporting high streets and town centres an
 
 On top of the £13 billion rates relief package since 2016, a £675 million Future High Streets Fund was announced last year to help high streets adapt.
 "
-"176",2019-10-23,"Celebrating 10 years of empowering and enabling data driven start-ups, Geovation welcomes in its latest PropTech and GeoTech cohort while launching the Scottish programme.","
+176,23/10/2019,"Celebrating 10 years of empowering and enabling data driven start-ups, Geovation welcomes in its latest PropTech and GeoTech cohort while launching the Scottish programme.","
     
           As Geovation marks its 10th anniversary, HM Land Registry and Ordnance Survey are delighted to announce the latest innovative start-up companies to join the Geovation Accelerator programme in London. The Geovation Accelerator programme will provide these promising new tech start-ups with focused support, access to quality location and property data and resources to help them develop and thrive.
 
@@ -10708,7 +10709,7 @@ Trafalgar House1 Bedford ParkCroydonCR0 2AQ
 
 
 "
-"177",2020-05-18,"Protect your property from illegal waste activities","
+177,18/05/2020,Protect your property from illegal waste activities,"
     
           The Environment Agency is urging residents and owners of land and property across the North East to be extra vigilant in the protection of their property, and also checking out the credentials of any independent waste carriers to avoid becoming victims of waste crime during the continued Coronavirus lockdown.
 
@@ -10784,7 +10785,7 @@ Also if people are paying for a company to take away waste from their property, 
 
 
 "
-"178",2019-12-19,"Plans announced to help home-buyers and renters, devolve power and funding to communities and improve building safety.","
+178,19/12/2019,"Plans announced to help home-buyers and renters, devolve power and funding to communities and improve building safety.","
     
           
 
@@ -10946,7 +10947,7 @@ LondonSW1P 4DF
 
 
 "
-"179",2019-07-09,"The NHS will test the world's first ‘subscription’ style payment model to incentivise pharmaceutical companies to develop new drugs for resistant infections.","
+179,09/07/2019,The NHS will test the world's first ‘subscription’ style payment model to incentivise pharmaceutical companies to develop new drugs for resistant infections.,"
     
           The new trial will be led by the National Institute for Health and Care Excellence (NICE) and NHS England and NHS Improvement.
 
@@ -10993,7 +10994,7 @@ Health Minister Nicola Blackwood said:
 
 
 "
-"180",2019-09-09,"Environment Agency teams are relocating hundreds of native crayfish to help boost their numbers.","
+180,09/09/2019,Environment Agency teams are relocating hundreds of native crayfish to help boost their numbers.,"
     
           Hundreds of native crayfish have been carefully hand-collected and moved to a remote refuge as part of a project to grow their numbers.
 
@@ -11030,7 +11031,7 @@ Everyone can do their part to prevent the spread of invasive species and protect
 
 
 "
-"181",2023-03-07,"Professor John Deanfield, CBE announced as the first ever Government Champion for Personalised Prevention.","
+181,07/03/2023,"Professor John Deanfield, CBE announced as the first ever Government Champion for Personalised Prevention.","
     
           
 Professor John Deanfield, CBE will explore how people can live longer, healthier lives by using technology, intelligence and data to predict, prevent and diagnose risk factors for cardiovascular disease
@@ -11098,7 +11099,7 @@ About 8 in every 10 cases of cardiovascular disease can be attributed to modifia
 
 
 "
-"182",2022-06-30,"Half a million people have been supported into work in less than 6 months thanks to “Way to Work”, a government drive to get jobseekers into vacancies.","
+182,30/06/2022,"Half a million people have been supported into work in less than 6 months thanks to “Way to Work”, a government drive to get jobseekers into vacancies.","
     
           Over 500,000 jobseekers have been supported to find work through their jobcentre as government meets its target, helping to grow the economy
   Benefit claimants moved into work at a record rate in April 2022 as part of the “Way to Work” drive
@@ -11199,7 +11200,7 @@ Follow DWP on:
     YouTube
   
 "
-"183",2023-03-10,"The Government Office for Technology Transfer (GOTT) has funded the National Physical Laboratory’s development of new ultrasound technology in breast cancer diagnosis.","
+183,10/03/2023,The Government Office for Technology Transfer (GOTT) has funded the National Physical Laboratory’s development of new ultrasound technology in breast cancer diagnosis.,"
     
           
 Background
@@ -11236,7 +11237,7 @@ Daniel Sarno, a research scientist at the National Physical Laboratory and a mem
 
 
 "
-"184",2022-06-07,"Today, 7 June, member states of the Organisation for Economic Co-operation and Development (OECD) agreed to ambitious new plans to boost sustainability and inclusivity in employment, as the UK chaired the first Employment and Labour Ministerial since before the pandemic.","
+184,07/06/2022,"Today, 7 June, member states of the Organisation for Economic Co-operation and Development (OECD) agreed to ambitious new plans to boost sustainability and inclusivity in employment, as the UK chaired the first Employment and Labour Ministerial since before the pandemic.","
     
           UK Work and Pensions Secretary, Thérèse Coffey, chairs first OECD Ministerial meeting on employment and labour markets since 2016
   Ministers from all 38 countries agree to ambitious pledge to focus on sustainability, equality and young people
@@ -11265,7 +11266,7 @@ Today’s Employment and Labour Ministerial, which was held with an official theme
 
 Ministers also agreed to put environmental challenges at the heart of their plans, and support workers to transition to sustainable sectors, aligning with a key ambition set out by the UK Prime Minister at the COP26 Climate Change summit in Glasgow to create millions of green jobs by unlocking both public and private sector cash.
 "
-"185",2022-05-26,"The CMA is investigating whether Google has broken the law by restricting competition in the digital advertising technology market.","
+185,26/05/2022,The CMA is investigating whether Google has broken the law by restricting competition in the digital advertising technology market.,"
     
           CMA launches second investigation into Google’s practices in ad tech, following launch of probe into Google and Meta’s ‘Jedi Blue’ agreement.
 Advertising technology intermediation, also known as the ‘ad tech stack’, is a complex set of services which facilitate the sale of online advertising space between sellers (publishers, like online newspapers and other content providers) and buyers (advertisers). In 2019, UK advertisers spent around £1.8 billion on this kind of online advertising. The market is important because millions of people across the UK use websites that rely on advertising revenue to offer high-quality, free content.
@@ -11314,7 +11315,7 @@ The competition legislation relevant to the CMA’s investigation is the Competiti
   All enquiries from journalists should be directed to the CMA press office by email on press@cma.gov.uk or by phone on 020 3738 6460.
   All enquiries from the general public should be directed to the CMA’s General Enquiries team on general.enquiries@cma.gov.uk or 020 3738 6000.
 "
-"186",2022-03-10,"UK has “sleepwalked” into a system in which children are failing to get suitable placements in foster care and children’s homes, finds new report published today.","
+186,10/03/2022,"UK has “sleepwalked” into a system in which children are failing to get suitable placements in foster care and children’s homes, finds new report published today.","
     
           
 
@@ -11359,7 +11360,7 @@ Market studies, like this one, may lead to a range of outcomes, including recomm
   The children’s social care system is the subject of significant policy attention across the UK, including through the independent review of children’s social care in England, the implementation of the Promise review recommendations in Scotland and the Welsh Government’s Rebalancing care and support White Paper. The CMA’s recommendations will feed into ongoing policy reviews in the three nations in scope. In England, the CMA expects the recommendations to be considered as part of the ongoing Independent Review of Children’s Social Care, which is due to report this year. In Scotland and Wales, the CMA expects its recommendations to feed into the implementation of on-going reform proposals, including commitments to remove profit-making from the children’s social care sector.
   Media queries should be directed to: press@cma.gov.uk or 020 3738 6460.
 "
-"187",2013-03-22,"How UK aid is working to eliminate and prevent all forms of violence against women and girls
+187,22/03/2013,"How UK aid is working to eliminate and prevent all forms of violence against women and girls
 ","
     
           
@@ -11390,7 +11391,7 @@ Case study: In Pakistan UK aid supports the Acid Survivors Foundation to help vi
 
 
 "
-"188",2012-07-31,"UK support helps poor children receive an education at low-cost private schools","
+188,31/07/2012,UK support helps poor children receive an education at low-cost private schools,"
     
           
 Twelve-year-old Humza Iqbal has 4 brothers and 3 sisters. He lives in Lahore, Pakistan, with 11 of his family members sharing a small 1 room dwelling which has no roof and an uneven floor covered in rubble. Humza used to help his father sell fruit on the streets to earn a living but thanks to support from the UK he has been in school for nearly 2 years.
@@ -11431,7 +11432,7 @@ support 4 million children in school
 
 
 "
-"189",2016-01-28,"Development of accessible and relevant library services to families with disabled children","
+189,28/01/2016,Development of accessible and relevant library services to families with disabled children,"
     
           
 West Sussex Library Service works with colleagues from the Special Educational Needs & Disability (SEND) team to develop accessible and relevant library services to families with disabled children (e.g. sensory storytimes).
@@ -11481,7 +11482,7 @@ Contact for further information: countylibraries@westsussex.gov.uk
 
 
 "
-"190",2020-09-04,"Demonstration of collision avoidance system sees 2 vehicles steer around stationary car without human assistance.","
+190,04/09/2020,Demonstration of collision avoidance system sees 2 vehicles steer around stationary car without human assistance.,"
     
           
 A UK government-backed consortium has achieved a ‘world first’ by demonstrating a collision-avoidance system in which 2 vehicles co-operate by radio link to steer around a stationary car without human assistance.
@@ -11504,7 +11505,7 @@ The autonomous vehicles cooperate in real-time – something humans cannot do – an
 
 
 "
-"191",2021-01-25,"Over £23 million funding allocated to 60 councils and voluntary groups across England to expand work to support those most at risk from COVID-19 and boost vaccine take up.","
+191,25/01/2021,Over £23 million funding allocated to 60 councils and voluntary groups across England to expand work to support those most at risk from COVID-19 and boost vaccine take up.,"
     
           
 
@@ -11617,7 +11618,7 @@ Birmingham allocation
 
 Birmingham will receive £440,000 of funding. This will include; the commissioning of helplines through VCS groups to allow those with limited access to digital to follow guidance and have support for tests and vaccines. This will also include more materials for BSL/audio materials for people with poor literacy, and materials for those with learning disabilities. And an extension of contracts with existing VCS to accelerate engagement around vaccinations.
 "
-"192",2021-12-02,"The CMA Chair, Jonathan Scott, says “competition will be more important than ever before” in the year ahead, as the organisation consults on its Annual Plan.","
+192,02/12/2021,"The CMA Chair, Jonathan Scott, says “competition will be more important than ever before” in the year ahead, as the organisation consults on its Annual Plan.","
     
           The draft Annual Plan explains how the Competition and Markets Authority (CMA) will protect consumers, promote competition and help support the economy. It aims to encourage innovation, productivity, and sustainable growth to benefit all nations and regions of the UK.
 
@@ -11664,7 +11665,7 @@ Notes to editors
 
 For media enquiries, contact the CMA press office on 020 3738 6460 or press@cma.gov.uk.
 "
-"193",2021-07-01,"The third edition in our series about Additional Contributions for our flagship grant scheme, focusing on woodland close to where people live.","
+193,01/07/2021,"The third edition in our series about Additional Contributions for our flagship grant scheme, focusing on woodland close to where people live.","
     
         
       
@@ -11678,7 +11679,7 @@ For media enquiries, contact the CMA press office on 020 3738 6460 or press@cma.
 
   
 "
-"194",2019-09-27,"Following an investigation by the Environment Agency (EA), one of the UK’s largest waste management companies - Biffa Waste Services Ltd - has been ordered to pay a total of £599,912 for breaching waste exports regulations.","
+194,27/09/2019,"Following an investigation by the Environment Agency (EA), one of the UK’s largest waste management companies - Biffa Waste Services Ltd - has been ordered to pay a total of £599,912 for breaching waste exports regulations.","
     
           
 In June, Biffa was found guilty after a three week trial of sending contaminated household waste, described as waste paper, to China between May and June 2015. Exports of unsorted household recycling waste from the UK to China are banned.
@@ -11709,7 +11710,7 @@ The Government’s Resources and Waste strategy puts forward a suite of measures i
 
 
 "
-"195",2019-06-27,"All new-build houses will be sold as freehold in bold move to tackle unfair leasehold practices.","
+195,27/06/2019,All new-build houses will be sold as freehold in bold move to tackle unfair leasehold practices.,"
     
           
 
@@ -11875,7 +11876,7 @@ LondonSW1P 4DF
 
 
 "
-"196",2020-08-10,"A new government package worth £172 million will help to train thousands more nursing degree apprentices.","
+196,10/08/2020,A new government package worth £172 million will help to train thousands more nursing degree apprentices.,"
     
           Nursing careers made more accessible through ‘earn and learn’ route
   Up to 2,000 nursing apprentices to be trained every year for the next 4 years
@@ -11959,7 +11960,7 @@ Details on ‘A Plan for Jobs’ additional funding for employers of apprentices und
 
 
 "
-"197",2020-09-03,"Lab capacity to continue to increase ahead of winter, with a new Lighthouse Lab set to open near Loughborough by the end of September.","
+197,03/09/2020,"Lab capacity to continue to increase ahead of winter, with a new Lighthouse Lab set to open near Loughborough by the end of September.","
     
           
     NHS Test and Trace continues to reach the majority of those testing positive and their contacts in week 13 of operation
@@ -12032,7 +12033,7 @@ New testing technology is being supplied by LGC to Milton Keynes Lighthouse Lab.
 
 
 "
-"198",2020-05-24,"Radical plans to provide thousands of long-term, safe homes for vulnerable rough sleepers taken off the streets during the pandemic.","
+198,24/05/2020,"Radical plans to provide thousands of long-term, safe homes for vulnerable rough sleepers taken off the streets during the pandemic.","
     
           
 
@@ -12092,7 +12093,7 @@ Interim accommodation is also being committed by the YHA, the YMCA and some univ
 
 Ministers have also announced a further £6 million for frontline homeless charities to directly support their important, vital work.  In addition, the Department for Education will be providing more than £700,000 for councils to support care leavers at risk of homelessness and rough sleeping.
 "
-"199",2019-09-12,"Includes projects aimed at improving online housing repairs services and making websites for planning applications easier to use.","
+199,12/09/2019,Includes projects aimed at improving online housing repairs services and making websites for planning applications easier to use.,"
     
           More than £750,000 has been awarded to councils looking to improve services using digital technology, Local Government Minister Luke Hall MP has announced (12 September 2019).
 
@@ -12142,7 +12143,7 @@ For the projects, lead councils across the country partner with at least 2 other
 
 The Fund is also being invested in digital skills and digital leadership training for council staff.
 "
-"200",2019-07-15,"The government has started a consultation to transform support for sick and disabled staff and remove barriers for employers.","
+200,15/07/2019,The government has started a consultation to transform support for sick and disabled staff and remove barriers for employers.,"
     
           Today (Monday 15 July) Work and Pensions Secretary Amber Rudd and Health Secretary Matt Hancock are setting out new measures to transform how employers support and retain disabled staff and those with a health condition.
 
